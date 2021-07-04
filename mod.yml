@@ -2256,7 +2256,7 @@ assets:
     - name: files\WI07_MS102A\wi07.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_AL020.bar
+  name: obj/B_AL020.mdlx
   source:
   - method: copy
     name: b_al
@@ -2264,7 +2264,7 @@ assets:
     - name: files\B_AL020\b_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_AL100_1ST.bar
+  name: obj/B_AL100_1ST.mdlx
   source:
   - method: copy
     name: b_al
@@ -2272,7 +2272,7 @@ assets:
     - name: files\B_AL100_1ST\b_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_AL100_2ND.bar
+  name: obj/B_AL100_2ND.mdlx
   source:
   - method: copy
     name: b_al
@@ -2280,7 +2280,7 @@ assets:
     - name: files\B_AL100_2ND\b_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_AL100_FIRE.bar
+  name: obj/B_AL100_FIRE.mdlx
   source:
   - method: copy
     name: b_al
@@ -2288,7 +2288,7 @@ assets:
     - name: files\B_AL100_FIRE\b_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_AL100_ICE.bar
+  name: obj/B_AL100_ICE.mdlx
   source:
   - method: copy
     name: b_al
@@ -2296,7 +2296,7 @@ assets:
     - name: files\B_AL100_ICE\b_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_AL110.bar
+  name: obj/B_AL110.mdlx
   source:
   - method: copy
     name: AM10
@@ -2304,7 +2304,7 @@ assets:
     - name: files\B_AL110\AM10.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_AL110.bar
+  name: obj/B_AL110.mdlx
   source:
   - method: copy
     name: b_al
@@ -2312,7 +2312,7 @@ assets:
     - name: files\B_AL110\b_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_AL120.bar
+  name: obj/B_AL120.mdlx
   source:
   - method: copy
     name: AM12
@@ -2320,7 +2320,7 @@ assets:
     - name: files\B_AL120\AM12.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_AL120.bar
+  name: obj/B_AL120.mdlx
   source:
   - method: copy
     name: b_al
@@ -2328,7 +2328,7 @@ assets:
     - name: files\B_AL120\b_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_BB100.bar
+  name: obj/B_BB100.mdlx
   source:
   - method: copy
     name: b_bb
@@ -2336,7 +2336,7 @@ assets:
     - name: files\B_BB100\b_bb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_BB110.bar
+  name: obj/B_BB110.mdlx
   source:
   - method: copy
     name: AM53
@@ -2344,7 +2344,7 @@ assets:
     - name: files\B_BB110\AM53.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_BB110.bar
+  name: obj/B_BB110.mdlx
   source:
   - method: copy
     name: b_bb
@@ -2352,7 +2352,7 @@ assets:
     - name: files\B_BB110\b_bb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_CA000.bar
+  name: obj/B_CA000.mdlx
   source:
   - method: copy
     name: b_ca
@@ -2360,7 +2360,7 @@ assets:
     - name: files\B_CA000\b_ca.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_CA010.bar
+  name: obj/B_CA010.mdlx
   source:
   - method: copy
     name: b_ca
@@ -2368,7 +2368,7 @@ assets:
     - name: files\B_CA010\b_ca.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_CA020.bar
+  name: obj/B_CA020.mdlx
   source:
   - method: copy
     name: b_ca
@@ -2376,7 +2376,7 @@ assets:
     - name: files\B_CA020\b_ca.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_CA030.bar
+  name: obj/B_CA030.mdlx
   source:
   - method: copy
     name: b_ca
@@ -2384,7 +2384,7 @@ assets:
     - name: files\B_CA030\b_ca.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_CA040.bar
+  name: obj/B_CA040.mdlx
   source:
   - method: copy
     name: b_ca
@@ -2392,7 +2392,7 @@ assets:
     - name: files\B_CA040\b_ca.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_CA050.bar
+  name: obj/B_CA050.mdlx
   source:
   - method: copy
     name: b_ca
@@ -2400,7 +2400,7 @@ assets:
     - name: files\B_CA050\b_ca.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX100.bar
+  name: obj/B_EX100.mdlx
   source:
   - method: copy
     name: AM28
@@ -2408,7 +2408,7 @@ assets:
     - name: files\B_EX100\AM28.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX110.bar
+  name: obj/B_EX110.mdlx
   source:
   - method: copy
     name: AP10
@@ -2416,7 +2416,7 @@ assets:
     - name: files\B_EX110\AP10.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX110.bar
+  name: obj/B_EX110.mdlx
   source:
   - method: copy
     name: AP12
@@ -2424,7 +2424,7 @@ assets:
     - name: files\B_EX110\AP12.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX110.bar
+  name: obj/B_EX110.mdlx
   source:
   - method: copy
     name: AP13
@@ -2432,7 +2432,7 @@ assets:
     - name: files\B_EX110\AP13.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX110.bar
+  name: obj/B_EX110.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2440,7 +2440,7 @@ assets:
     - name: files\B_EX110\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX110_FRIEND.bar
+  name: obj/B_EX110_FRIEND.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2448,7 +2448,7 @@ assets:
     - name: files\B_EX110_FRIEND\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX110_RTN.bar
+  name: obj/B_EX110_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -2456,7 +2456,7 @@ assets:
     - name: files\B_EX110_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX110_SKIRMISH.bar
+  name: obj/B_EX110_SKIRMISH.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2464,7 +2464,7 @@ assets:
     - name: files\B_EX110_SKIRMISH\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX120.bar
+  name: obj/B_EX120.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2472,7 +2472,7 @@ assets:
     - name: files\B_EX120\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX120_HB.bar
+  name: obj/B_EX120_HB.mdlx
   source:
   - method: copy
     name: AM71
@@ -2480,7 +2480,7 @@ assets:
     - name: files\B_EX120_HB\AM71.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX120_HB.bar
+  name: obj/B_EX120_HB.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2488,7 +2488,7 @@ assets:
     - name: files\B_EX120_HB\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX130.bar
+  name: obj/B_EX130.mdlx
   source:
   - method: copy
     name: AM81
@@ -2496,7 +2496,7 @@ assets:
     - name: files\B_EX130\AM81.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX130.bar
+  name: obj/B_EX130.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2504,7 +2504,7 @@ assets:
     - name: files\B_EX130\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX140.bar
+  name: obj/B_EX140.mdlx
   source:
   - method: copy
     name: AP43
@@ -2512,7 +2512,7 @@ assets:
     - name: files\B_EX140\AP43.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX140.bar
+  name: obj/B_EX140.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2520,7 +2520,7 @@ assets:
     - name: files\B_EX140\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX150.bar
+  name: obj/B_EX150.mdlx
   source:
   - method: copy
     name: AN21
@@ -2528,7 +2528,7 @@ assets:
     - name: files\B_EX150\AN21.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX150.bar
+  name: obj/B_EX150.mdlx
   source:
   - method: copy
     name: AN22
@@ -2536,7 +2536,7 @@ assets:
     - name: files\B_EX150\AN22.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX150.bar
+  name: obj/B_EX150.mdlx
   source:
   - method: copy
     name: AN23
@@ -2544,7 +2544,7 @@ assets:
     - name: files\B_EX150\AN23.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX150.bar
+  name: obj/B_EX150.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2552,7 +2552,7 @@ assets:
     - name: files\B_EX150\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX160.bar
+  name: obj/B_EX160.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2560,7 +2560,7 @@ assets:
     - name: files\B_EX160\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX170.bar
+  name: obj/B_EX170.mdlx
   source:
   - method: copy
     name: AN36
@@ -2568,7 +2568,7 @@ assets:
     - name: files\B_EX170\AN36.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX170.bar
+  name: obj/B_EX170.mdlx
   source:
   - method: copy
     name: AN37_0
@@ -2576,7 +2576,7 @@ assets:
     - name: files\B_EX170\AN37_0.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX170.bar
+  name: obj/B_EX170.mdlx
   source:
   - method: copy
     name: AN37_1
@@ -2584,7 +2584,7 @@ assets:
     - name: files\B_EX170\AN37_1.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX170.bar
+  name: obj/B_EX170.mdlx
   source:
   - method: copy
     name: AN37_2
@@ -2592,7 +2592,7 @@ assets:
     - name: files\B_EX170\AN37_2.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX170.bar
+  name: obj/B_EX170.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2600,7 +2600,7 @@ assets:
     - name: files\B_EX170\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX170_LAST.bar
+  name: obj/B_EX170_LAST.mdlx
   source:
   - method: copy
     name: AQ03
@@ -2608,7 +2608,7 @@ assets:
     - name: files\B_EX170_LAST\AQ03.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX170_LAST.bar
+  name: obj/B_EX170_LAST.mdlx
   source:
   - method: copy
     name: AQ10
@@ -2616,7 +2616,7 @@ assets:
     - name: files\B_EX170_LAST\AQ10.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX170_LAST.bar
+  name: obj/B_EX170_LAST.mdlx
   source:
   - method: copy
     name: AQ20
@@ -2624,7 +2624,7 @@ assets:
     - name: files\B_EX170_LAST\AQ20.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX170_LAST.bar
+  name: obj/B_EX170_LAST.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2632,7 +2632,7 @@ assets:
     - name: files\B_EX170_LAST\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX170_RTN.bar
+  name: obj/B_EX170_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -2640,7 +2640,7 @@ assets:
     - name: files\B_EX170_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX180.bar
+  name: obj/B_EX180.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2648,7 +2648,7 @@ assets:
     - name: files\B_EX180\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX210.bar
+  name: obj/B_EX210.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2656,7 +2656,7 @@ assets:
     - name: files\B_EX210\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX210_EH.bar
+  name: obj/B_EX210_EH.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2664,7 +2664,7 @@ assets:
     - name: files\B_EX210_EH\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX220.bar
+  name: obj/B_EX220.mdlx
   source:
   - method: copy
     name: AP60
@@ -2672,7 +2672,7 @@ assets:
     - name: files\B_EX220\AP60.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX220.bar
+  name: obj/B_EX220.mdlx
   source:
   - method: copy
     name: AP61
@@ -2680,7 +2680,7 @@ assets:
     - name: files\B_EX220\AP61.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX220.bar
+  name: obj/B_EX220.mdlx
   source:
   - method: copy
     name: AP62
@@ -2688,7 +2688,7 @@ assets:
     - name: files\B_EX220\AP62.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX220.bar
+  name: obj/B_EX220.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2696,7 +2696,7 @@ assets:
     - name: files\B_EX220\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX240.bar
+  name: obj/B_EX240.mdlx
   source:
   - method: copy
     name: AX93
@@ -2704,7 +2704,7 @@ assets:
     - name: files\B_EX240\AX93.og.mset
     type: Motionset
 - method: binarc
-  name: obj/B_EX240.bar
+  name: obj/B_EX240.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2712,7 +2712,7 @@ assets:
     - name: files\B_EX240\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX260.bar
+  name: obj/B_EX260.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2720,7 +2720,7 @@ assets:
     - name: files\B_EX260\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX270_SIDECAR.bar
+  name: obj/B_EX270_SIDECAR.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2728,7 +2728,7 @@ assets:
     - name: files\B_EX270_SIDECAR\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX310.bar
+  name: obj/B_EX310.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2736,7 +2736,7 @@ assets:
     - name: files\B_EX310\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_EX330.bar
+  name: obj/B_EX330.mdlx
   source:
   - method: copy
     name: b_ex
@@ -2744,7 +2744,7 @@ assets:
     - name: files\B_EX330\b_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_HE030_RTN.bar
+  name: obj/B_HE030_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -2752,7 +2752,7 @@ assets:
     - name: files\B_HE030_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_HE100.bar
+  name: obj/B_HE100.mdlx
   source:
   - method: copy
     name: b_he
@@ -2760,7 +2760,7 @@ assets:
     - name: files\B_HE100\b_he.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_LK100_00_RTN.bar
+  name: obj/B_LK100_00_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -2768,7 +2768,7 @@ assets:
     - name: files\B_LK100_00_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_LK100_10_RTN.bar
+  name: obj/B_LK100_10_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -2776,7 +2776,7 @@ assets:
     - name: files\B_LK100_10_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_LK100_20_RTN.bar
+  name: obj/B_LK100_20_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -2784,7 +2784,7 @@ assets:
     - name: files\B_LK100_20_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_LK110_PHANTOM.bar
+  name: obj/B_LK110_PHANTOM.mdlx
   source:
   - method: copy
     name: b_lk
@@ -2792,7 +2792,7 @@ assets:
     - name: files\B_LK110_PHANTOM\b_lk.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_LK120.bar
+  name: obj/B_LK120.mdlx
   source:
   - method: copy
     name: b_lk
@@ -2800,7 +2800,7 @@ assets:
     - name: files\B_LK120\b_lk.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_MU100.bar
+  name: obj/B_MU100.mdlx
   source:
   - method: copy
     name: b_mu
@@ -2808,7 +2808,7 @@ assets:
     - name: files\B_MU100\b_mu.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_MU100_RTN.bar
+  name: obj/B_MU100_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -2816,7 +2816,7 @@ assets:
     - name: files\B_MU100_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_MU110.bar
+  name: obj/B_MU110.mdlx
   source:
   - method: copy
     name: b_mu
@@ -2824,7 +2824,7 @@ assets:
     - name: files\B_MU110\b_mu.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_MU120.bar
+  name: obj/B_MU120.mdlx
   source:
   - method: copy
     name: b_mu
@@ -2832,7 +2832,7 @@ assets:
     - name: files\B_MU120\b_mu.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_NM100.bar
+  name: obj/B_NM100.mdlx
   source:
   - method: copy
     name: b_nm
@@ -2840,7 +2840,7 @@ assets:
     - name: files\B_NM100\b_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/B_TR000.bar
+  name: obj/B_TR000.mdlx
   source:
   - method: copy
     name: b_tr
@@ -2848,7 +2848,7 @@ assets:
     - name: files\B_TR000\b_tr.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/EH_G_EX120.bar
+  name: obj/EH_G_EX120.mdlx
   source:
   - method: copy
     name: g_ex
@@ -2856,7 +2856,7 @@ assets:
     - name: files\EH_G_EX120\g_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/EH_G_EX250.bar
+  name: obj/EH_G_EX250.mdlx
   source:
   - method: copy
     name: g_ex
@@ -2864,7 +2864,7 @@ assets:
     - name: files\EH_G_EX250\g_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/EH_G_EX250_FLY.bar
+  name: obj/EH_G_EX250_FLY.mdlx
   source:
   - method: copy
     name: g_ex
@@ -2872,7 +2872,7 @@ assets:
     - name: files\EH_G_EX250_FLY\g_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/EH_G_EX290.bar
+  name: obj/EH_G_EX290.mdlx
   source:
   - method: copy
     name: g_ex
@@ -2880,7 +2880,7 @@ assets:
     - name: files\EH_G_EX290\g_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/EH_G_EX320.bar
+  name: obj/EH_G_EX320.mdlx
   source:
   - method: copy
     name: g_ex
@@ -2888,7 +2888,7 @@ assets:
     - name: files\EH_G_EX320\g_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_AL050.bar
+  name: obj/F_AL050.mdlx
   source:
   - method: copy
     name: f_al
@@ -2896,7 +2896,7 @@ assets:
     - name: files\F_AL050\f_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_AL070_BLIZZARD.bar
+  name: obj/F_AL070_BLIZZARD.mdlx
   source:
   - method: copy
     name: f_al
@@ -2904,7 +2904,7 @@ assets:
     - name: files\F_AL070_BLIZZARD\f_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_AL070_FIRE.bar
+  name: obj/F_AL070_FIRE.mdlx
   source:
   - method: copy
     name: f_al
@@ -2912,7 +2912,7 @@ assets:
     - name: files\F_AL070_FIRE\f_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_AL070_THUNDER.bar
+  name: obj/F_AL070_THUNDER.mdlx
   source:
   - method: copy
     name: f_al
@@ -2920,7 +2920,7 @@ assets:
     - name: files\F_AL070_THUNDER\f_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_AL110.bar
+  name: obj/F_AL110.mdlx
   source:
   - method: copy
     name: f_al
@@ -2928,7 +2928,7 @@ assets:
     - name: files\F_AL110\f_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_AL140.bar
+  name: obj/F_AL140.mdlx
   source:
   - method: copy
     name: f_al
@@ -2936,7 +2936,7 @@ assets:
     - name: files\F_AL140\f_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_AL150.bar
+  name: obj/F_AL150.mdlx
   source:
   - method: copy
     name: f_al
@@ -2944,7 +2944,7 @@ assets:
     - name: files\F_AL150\f_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_AL160.bar
+  name: obj/F_AL160.mdlx
   source:
   - method: copy
     name: f_al
@@ -2952,7 +2952,7 @@ assets:
     - name: files\F_AL160\f_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_AL170.bar
+  name: obj/F_AL170.mdlx
   source:
   - method: copy
     name: f_al
@@ -2960,7 +2960,7 @@ assets:
     - name: files\F_AL170\f_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_BB000.bar
+  name: obj/F_BB000.mdlx
   source:
   - method: copy
     name: f_bb
@@ -2968,7 +2968,7 @@ assets:
     - name: files\F_BB000\f_bb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_BB010.bar
+  name: obj/F_BB010.mdlx
   source:
   - method: copy
     name: f_bb
@@ -2976,7 +2976,7 @@ assets:
     - name: files\F_BB010\f_bb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_BB020.bar
+  name: obj/F_BB020.mdlx
   source:
   - method: copy
     name: f_bb
@@ -2984,7 +2984,7 @@ assets:
     - name: files\F_BB020\f_bb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_BB030.bar
+  name: obj/F_BB030.mdlx
   source:
   - method: copy
     name: f_bb
@@ -2992,7 +2992,7 @@ assets:
     - name: files\F_BB030\f_bb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_BB040.bar
+  name: obj/F_BB040.mdlx
   source:
   - method: copy
     name: f_bb
@@ -3000,7 +3000,7 @@ assets:
     - name: files\F_BB040\f_bb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_BB070.bar
+  name: obj/F_BB070.mdlx
   source:
   - method: copy
     name: f_bb
@@ -3008,7 +3008,7 @@ assets:
     - name: files\F_BB070\f_bb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_BB100.bar
+  name: obj/F_BB100.mdlx
   source:
   - method: copy
     name: f_bb
@@ -3016,7 +3016,7 @@ assets:
     - name: files\F_BB100\f_bb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_BB110.bar
+  name: obj/F_BB110.mdlx
   source:
   - method: copy
     name: f_bb
@@ -3024,7 +3024,7 @@ assets:
     - name: files\F_BB110\f_bb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_BB120.bar
+  name: obj/F_BB120.mdlx
   source:
   - method: copy
     name: f_bb
@@ -3032,7 +3032,7 @@ assets:
     - name: files\F_BB120\f_bb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_CA050.bar
+  name: obj/F_CA050.mdlx
   source:
   - method: copy
     name: f_ca
@@ -3040,7 +3040,7 @@ assets:
     - name: files\F_CA050\f_ca.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_CA710_RTN.bar
+  name: obj/F_CA710_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -3048,7 +3048,7 @@ assets:
     - name: files\F_CA710_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_EH050.bar
+  name: obj/F_EH050.mdlx
   source:
   - method: copy
     name: AX90
@@ -3056,7 +3056,7 @@ assets:
     - name: files\F_EH050\AX90.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH050.bar
+  name: obj/F_EH050.mdlx
   source:
   - method: copy
     name: AX91
@@ -3064,7 +3064,7 @@ assets:
     - name: files\F_EH050\AX91.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH050.bar
+  name: obj/F_EH050.mdlx
   source:
   - method: copy
     name: AX92
@@ -3072,7 +3072,7 @@ assets:
     - name: files\F_EH050\AX92.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH050.bar
+  name: obj/F_EH050.mdlx
   source:
   - method: copy
     name: AX99
@@ -3080,7 +3080,7 @@ assets:
     - name: files\F_EH050\AX99.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH050.bar
+  name: obj/F_EH050.mdlx
   source:
   - method: copy
     name: f_eh
@@ -3088,7 +3088,7 @@ assets:
     - name: files\F_EH050\f_eh.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_EH060.bar
+  name: obj/F_EH060.mdlx
   source:
   - method: copy
     name: AW00
@@ -3096,7 +3096,7 @@ assets:
     - name: files\F_EH060\AW00.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH060.bar
+  name: obj/F_EH060.mdlx
   source:
   - method: copy
     name: AW02
@@ -3104,7 +3104,7 @@ assets:
     - name: files\F_EH060\AW02.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH060.bar
+  name: obj/F_EH060.mdlx
   source:
   - method: copy
     name: f_eh
@@ -3112,7 +3112,7 @@ assets:
     - name: files\F_EH060\f_eh.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_EH070.bar
+  name: obj/F_EH070.mdlx
   source:
   - method: copy
     name: AW30
@@ -3120,7 +3120,7 @@ assets:
     - name: files\F_EH070\AW30.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH070.bar
+  name: obj/F_EH070.mdlx
   source:
   - method: copy
     name: AW31
@@ -3128,7 +3128,7 @@ assets:
     - name: files\F_EH070\AW31.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH070.bar
+  name: obj/F_EH070.mdlx
   source:
   - method: copy
     name: AW32
@@ -3136,7 +3136,7 @@ assets:
     - name: files\F_EH070\AW32.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH070.bar
+  name: obj/F_EH070.mdlx
   source:
   - method: copy
     name: AW33
@@ -3144,7 +3144,7 @@ assets:
     - name: files\F_EH070\AW33.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH070.bar
+  name: obj/F_EH070.mdlx
   source:
   - method: copy
     name: AW34
@@ -3152,7 +3152,7 @@ assets:
     - name: files\F_EH070\AW34.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH070.bar
+  name: obj/F_EH070.mdlx
   source:
   - method: copy
     name: AW35
@@ -3160,7 +3160,7 @@ assets:
     - name: files\F_EH070\AW35.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH070.bar
+  name: obj/F_EH070.mdlx
   source:
   - method: copy
     name: AW36
@@ -3168,7 +3168,7 @@ assets:
     - name: files\F_EH070\AW36.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH070.bar
+  name: obj/F_EH070.mdlx
   source:
   - method: copy
     name: f_eh
@@ -3176,7 +3176,7 @@ assets:
     - name: files\F_EH070\f_eh.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_EH080.bar
+  name: obj/F_EH080.mdlx
   source:
   - method: copy
     name: AW10
@@ -3184,7 +3184,7 @@ assets:
     - name: files\F_EH080\AW10.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH080.bar
+  name: obj/F_EH080.mdlx
   source:
   - method: copy
     name: AW11
@@ -3192,7 +3192,7 @@ assets:
     - name: files\F_EH080\AW11.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH080.bar
+  name: obj/F_EH080.mdlx
   source:
   - method: copy
     name: AW12
@@ -3200,7 +3200,7 @@ assets:
     - name: files\F_EH080\AW12.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH080.bar
+  name: obj/F_EH080.mdlx
   source:
   - method: copy
     name: AW13
@@ -3208,7 +3208,7 @@ assets:
     - name: files\F_EH080\AW13.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH080.bar
+  name: obj/F_EH080.mdlx
   source:
   - method: copy
     name: AW14
@@ -3216,7 +3216,7 @@ assets:
     - name: files\F_EH080\AW14.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH080.bar
+  name: obj/F_EH080.mdlx
   source:
   - method: copy
     name: AW15
@@ -3224,7 +3224,7 @@ assets:
     - name: files\F_EH080\AW15.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH080.bar
+  name: obj/F_EH080.mdlx
   source:
   - method: copy
     name: AW16
@@ -3232,7 +3232,7 @@ assets:
     - name: files\F_EH080\AW16.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EH080.bar
+  name: obj/F_EH080.mdlx
   source:
   - method: copy
     name: f_eh
@@ -3240,7 +3240,7 @@ assets:
     - name: files\F_EH080\f_eh.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_EH110.bar
+  name: obj/F_EH110.mdlx
   source:
   - method: copy
     name: AW40
@@ -3248,7 +3248,7 @@ assets:
     - name: files\F_EH110\AW40.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EX040.bar
+  name: obj/F_EX040.mdlx
   source:
   - method: copy
     name: AZ50
@@ -3256,7 +3256,7 @@ assets:
     - name: files\F_EX040\AZ50.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_EX060.bar
+  name: obj/F_EX060.mdlx
   source:
   - method: copy
     name: LZ50
@@ -3264,7 +3264,7 @@ assets:
     - name: files\F_EX060\LZ50.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_HB020.bar
+  name: obj/F_HB020.mdlx
   source:
   - method: copy
     name: f_hb
@@ -3272,7 +3272,7 @@ assets:
     - name: files\F_HB020\f_hb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_HB030.bar
+  name: obj/F_HB030.mdlx
   source:
   - method: copy
     name: f_hb
@@ -3280,7 +3280,7 @@ assets:
     - name: files\F_HB030\f_hb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_HE000.bar
+  name: obj/F_HE000.mdlx
   source:
   - method: copy
     name: f_he
@@ -3288,7 +3288,7 @@ assets:
     - name: files\F_HE000\f_he.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_HE010.bar
+  name: obj/F_HE010.mdlx
   source:
   - method: copy
     name: f_he
@@ -3296,7 +3296,7 @@ assets:
     - name: files\F_HE010\f_he.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_HE110.bar
+  name: obj/F_HE110.mdlx
   source:
   - method: copy
     name: f_he
@@ -3304,7 +3304,7 @@ assets:
     - name: files\F_HE110\f_he.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_MU000.bar
+  name: obj/F_MU000.mdlx
   source:
   - method: copy
     name: f_mu
@@ -3312,7 +3312,7 @@ assets:
     - name: files\F_MU000\f_mu.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_MU010.bar
+  name: obj/F_MU010.mdlx
   source:
   - method: copy
     name: f_mu
@@ -3320,7 +3320,7 @@ assets:
     - name: files\F_MU010\f_mu.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_MU020.bar
+  name: obj/F_MU020.mdlx
   source:
   - method: copy
     name: f_mu
@@ -3328,7 +3328,7 @@ assets:
     - name: files\F_MU020\f_mu.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_MU030.bar
+  name: obj/F_MU030.mdlx
   source:
   - method: copy
     name: f_mu
@@ -3336,7 +3336,7 @@ assets:
     - name: files\F_MU030\f_mu.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_MU040.bar
+  name: obj/F_MU040.mdlx
   source:
   - method: copy
     name: f_mu
@@ -3344,7 +3344,7 @@ assets:
     - name: files\F_MU040\f_mu.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_MU050.bar
+  name: obj/F_MU050.mdlx
   source:
   - method: copy
     name: f_mu
@@ -3352,7 +3352,7 @@ assets:
     - name: files\F_MU050\f_mu.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_MU060.bar
+  name: obj/F_MU060.mdlx
   source:
   - method: copy
     name: f_mu
@@ -3360,7 +3360,7 @@ assets:
     - name: files\F_MU060\f_mu.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_MU070.bar
+  name: obj/F_MU070.mdlx
   source:
   - method: copy
     name: AZ00
@@ -3368,7 +3368,7 @@ assets:
     - name: files\F_MU070\AZ00.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_MU070.bar
+  name: obj/F_MU070.mdlx
   source:
   - method: copy
     name: f_mu
@@ -3376,7 +3376,7 @@ assets:
     - name: files\F_MU070\f_mu.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_MU070_BOSS.bar
+  name: obj/F_MU070_BOSS.mdlx
   source:
   - method: copy
     name: f_mu
@@ -3384,7 +3384,7 @@ assets:
     - name: files\F_MU070_BOSS\f_mu.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_MU080.bar
+  name: obj/F_MU080.mdlx
   source:
   - method: copy
     name: f_mu
@@ -3392,7 +3392,7 @@ assets:
     - name: files\F_MU080\f_mu.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_MU090.bar
+  name: obj/F_MU090.mdlx
   source:
   - method: copy
     name: f_mu
@@ -3400,7 +3400,7 @@ assets:
     - name: files\F_MU090\f_mu.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_MU100.bar
+  name: obj/F_MU100.mdlx
   source:
   - method: copy
     name: f_mu
@@ -3408,7 +3408,7 @@ assets:
     - name: files\F_MU100\f_mu.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_MU100_SHANG.bar
+  name: obj/F_MU100_SHANG.mdlx
   source:
   - method: copy
     name: f_mu
@@ -3416,7 +3416,7 @@ assets:
     - name: files\F_MU100_SHANG\f_mu.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_MU100_TOWER.bar
+  name: obj/F_MU100_TOWER.mdlx
   source:
   - method: copy
     name: f_mu
@@ -3424,7 +3424,7 @@ assets:
     - name: files\F_MU100_TOWER\f_mu.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM000.bar
+  name: obj/F_NM000.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3432,7 +3432,7 @@ assets:
     - name: files\F_NM000\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM010.bar
+  name: obj/F_NM010.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3440,7 +3440,7 @@ assets:
     - name: files\F_NM010\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM020.bar
+  name: obj/F_NM020.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3448,7 +3448,7 @@ assets:
     - name: files\F_NM020\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM030.bar
+  name: obj/F_NM030.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3456,7 +3456,7 @@ assets:
     - name: files\F_NM030\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM040_00.bar
+  name: obj/F_NM040_00.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3464,7 +3464,7 @@ assets:
     - name: files\F_NM040_00\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM040_10.bar
+  name: obj/F_NM040_10.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3472,7 +3472,7 @@ assets:
     - name: files\F_NM040_10\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM050.bar
+  name: obj/F_NM050.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3480,7 +3480,7 @@ assets:
     - name: files\F_NM050\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM070.bar
+  name: obj/F_NM070.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3488,7 +3488,7 @@ assets:
     - name: files\F_NM070\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM080.bar
+  name: obj/F_NM080.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3496,7 +3496,7 @@ assets:
     - name: files\F_NM080\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM090.bar
+  name: obj/F_NM090.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3504,7 +3504,7 @@ assets:
     - name: files\F_NM090\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM100.bar
+  name: obj/F_NM100.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3512,7 +3512,7 @@ assets:
     - name: files\F_NM100\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM110.bar
+  name: obj/F_NM110.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3520,7 +3520,7 @@ assets:
     - name: files\F_NM110\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM120.bar
+  name: obj/F_NM120.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3528,7 +3528,7 @@ assets:
     - name: files\F_NM120\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM130.bar
+  name: obj/F_NM130.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3536,7 +3536,7 @@ assets:
     - name: files\F_NM130\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM140.bar
+  name: obj/F_NM140.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3544,7 +3544,7 @@ assets:
     - name: files\F_NM140\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM150.bar
+  name: obj/F_NM150.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3552,7 +3552,7 @@ assets:
     - name: files\F_NM150\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM160.bar
+  name: obj/F_NM160.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3560,7 +3560,7 @@ assets:
     - name: files\F_NM160\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM170_CATCH.bar
+  name: obj/F_NM170_CATCH.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3568,7 +3568,7 @@ assets:
     - name: files\F_NM170_CATCH\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM170_L.bar
+  name: obj/F_NM170_L.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3576,7 +3576,7 @@ assets:
     - name: files\F_NM170_L\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM170_M.bar
+  name: obj/F_NM170_M.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3584,7 +3584,7 @@ assets:
     - name: files\F_NM170_M\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM170_S.bar
+  name: obj/F_NM170_S.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3592,7 +3592,7 @@ assets:
     - name: files\F_NM170_S\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM170_XL.bar
+  name: obj/F_NM170_XL.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3600,7 +3600,7 @@ assets:
     - name: files\F_NM170_XL\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_NM180.bar
+  name: obj/F_NM180.mdlx
   source:
   - method: copy
     name: f_nm
@@ -3608,7 +3608,7 @@ assets:
     - name: files\F_NM180\f_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_PO030.bar
+  name: obj/F_PO030.mdlx
   source:
   - method: copy
     name: f_po
@@ -3616,7 +3616,7 @@ assets:
     - name: files\F_PO030\f_po.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_PO080.bar
+  name: obj/F_PO080.mdlx
   source:
   - method: copy
     name: f_po
@@ -3624,7 +3624,7 @@ assets:
     - name: files\F_PO080\f_po.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_PO090.bar
+  name: obj/F_PO090.mdlx
   source:
   - method: copy
     name: f_po
@@ -3632,7 +3632,7 @@ assets:
     - name: files\F_PO090\f_po.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_PO090_ETC.bar
+  name: obj/F_PO090_ETC.mdlx
   source:
   - method: copy
     name: f_po
@@ -3640,7 +3640,7 @@ assets:
     - name: files\F_PO090_ETC\f_po.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_PO090_TT.bar
+  name: obj/F_PO090_TT.mdlx
   source:
   - method: copy
     name: f_po
@@ -3648,7 +3648,7 @@ assets:
     - name: files\F_PO090_TT\f_po.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TR020.bar
+  name: obj/F_TR020.mdlx
   source:
   - method: copy
     name: f_tr
@@ -3656,7 +3656,7 @@ assets:
     - name: files\F_TR020\f_tr.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TR030.bar
+  name: obj/F_TR030.mdlx
   source:
   - method: copy
     name: f_tr
@@ -3664,7 +3664,7 @@ assets:
     - name: files\F_TR030\f_tr.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TR060.bar
+  name: obj/F_TR060.mdlx
   source:
   - method: copy
     name: AZ80
@@ -3672,7 +3672,7 @@ assets:
     - name: files\F_TR060\AZ80.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_TR060.bar
+  name: obj/F_TR060.mdlx
   source:
   - method: copy
     name: AZ81
@@ -3680,7 +3680,7 @@ assets:
     - name: files\F_TR060\AZ81.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_TR160.bar
+  name: obj/F_TR160.mdlx
   source:
   - method: copy
     name: f_tr
@@ -3688,7 +3688,7 @@ assets:
     - name: files\F_TR160\f_tr.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TR170.bar
+  name: obj/F_TR170.mdlx
   source:
   - method: copy
     name: f_tr
@@ -3696,7 +3696,7 @@ assets:
     - name: files\F_TR170\f_tr.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT000.bar
+  name: obj/F_TT000.mdlx
   source:
   - method: copy
     name: f_tt
@@ -3704,7 +3704,7 @@ assets:
     - name: files\F_TT000\f_tt.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT010.bar
+  name: obj/F_TT010.mdlx
   source:
   - method: copy
     name: f_tt
@@ -3712,7 +3712,7 @@ assets:
     - name: files\F_TT010\f_tt.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT010_AL.bar
+  name: obj/F_TT010_AL.mdlx
   source:
   - method: copy
     name: f_tt
@@ -3720,7 +3720,7 @@ assets:
     - name: files\F_TT010_AL\f_tt.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT010_CA.bar
+  name: obj/F_TT010_CA.mdlx
   source:
   - method: copy
     name: f_tt
@@ -3728,7 +3728,7 @@ assets:
     - name: files\F_TT010_CA\f_tt.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT010_HE.bar
+  name: obj/F_TT010_HE.mdlx
   source:
   - method: copy
     name: f_tt
@@ -3736,7 +3736,7 @@ assets:
     - name: files\F_TT010_HE\f_tt.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT010_NM.bar
+  name: obj/F_TT010_NM.mdlx
   source:
   - method: copy
     name: f_tt
@@ -3744,7 +3744,7 @@ assets:
     - name: files\F_TT010_NM\f_tt.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT010_SORA.bar
+  name: obj/F_TT010_SORA.mdlx
   source:
   - method: copy
     name: f_tt
@@ -3752,7 +3752,7 @@ assets:
     - name: files\F_TT010_SORA\f_tt.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT010_TR.bar
+  name: obj/F_TT010_TR.mdlx
   source:
   - method: copy
     name: f_tt
@@ -3760,7 +3760,7 @@ assets:
     - name: files\F_TT010_TR\f_tt.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT010_WI.bar
+  name: obj/F_TT010_WI.mdlx
   source:
   - method: copy
     name: f_tt
@@ -3768,7 +3768,7 @@ assets:
     - name: files\F_TT010_WI\f_tt.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT020.bar
+  name: obj/F_TT020.mdlx
   source:
   - method: copy
     name: f_tt
@@ -3776,7 +3776,7 @@ assets:
     - name: files\F_TT020\f_tt.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT030.bar
+  name: obj/F_TT030.mdlx
   source:
   - method: copy
     name: f_tt
@@ -3784,7 +3784,7 @@ assets:
     - name: files\F_TT030\f_tt.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT030_ETC.bar
+  name: obj/F_TT030_ETC.mdlx
   source:
   - method: copy
     name: f_tt
@@ -3792,7 +3792,7 @@ assets:
     - name: files\F_TT030_ETC\f_tt.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT040.bar
+  name: obj/F_TT040.mdlx
   source:
   - method: copy
     name: f_tt
@@ -3800,7 +3800,7 @@ assets:
     - name: files\F_TT040\f_tt.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT120.bar
+  name: obj/F_TT120.mdlx
   source:
   - method: copy
     name: f_tt
@@ -3808,7 +3808,7 @@ assets:
     - name: files\F_TT120\f_tt.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT130.bar
+  name: obj/F_TT130.mdlx
   source:
   - method: copy
     name: f_tt
@@ -3816,7 +3816,7 @@ assets:
     - name: files\F_TT130\f_tt.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT140.bar
+  name: obj/F_TT140.mdlx
   source:
   - method: copy
     name: rtn_
@@ -3824,7 +3824,7 @@ assets:
     - name: files\F_TT140\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT150.bar
+  name: obj/F_TT150.mdlx
   source:
   - method: copy
     name: rtn_
@@ -3832,7 +3832,7 @@ assets:
     - name: files\F_TT150\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT160.bar
+  name: obj/F_TT160.mdlx
   source:
   - method: copy
     name: rtn_
@@ -3840,7 +3840,7 @@ assets:
     - name: files\F_TT160\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_TT170.bar
+  name: obj/F_TT170.mdlx
   source:
   - method: copy
     name: f_tt
@@ -3848,7 +3848,7 @@ assets:
     - name: files\F_TT170\f_tt.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI000.bar
+  name: obj/F_WI000.mdlx
   source:
   - method: copy
     name: f_wi
@@ -3856,7 +3856,7 @@ assets:
     - name: files\F_WI000\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI010.bar
+  name: obj/F_WI010.mdlx
   source:
   - method: copy
     name: f_wi
@@ -3864,7 +3864,7 @@ assets:
     - name: files\F_WI010\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI010_BOSS.bar
+  name: obj/F_WI010_BOSS.mdlx
   source:
   - method: copy
     name: f_wi
@@ -3872,7 +3872,7 @@ assets:
     - name: files\F_WI010_BOSS\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI020.bar
+  name: obj/F_WI020.mdlx
   source:
   - method: copy
     name: f_wi
@@ -3880,7 +3880,7 @@ assets:
     - name: files\F_WI020\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI020_BOSS.bar
+  name: obj/F_WI020_BOSS.mdlx
   source:
   - method: copy
     name: f_wi
@@ -3888,7 +3888,7 @@ assets:
     - name: files\F_WI020_BOSS\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI060.bar
+  name: obj/F_WI060.mdlx
   source:
   - method: copy
     name: AX10
@@ -3896,7 +3896,7 @@ assets:
     - name: files\F_WI060\AX10.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_WI060.bar
+  name: obj/F_WI060.mdlx
   source:
   - method: copy
     name: AX11
@@ -3904,7 +3904,7 @@ assets:
     - name: files\F_WI060\AX11.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_WI060.bar
+  name: obj/F_WI060.mdlx
   source:
   - method: copy
     name: AX13
@@ -3912,7 +3912,7 @@ assets:
     - name: files\F_WI060\AX13.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_WI060.bar
+  name: obj/F_WI060.mdlx
   source:
   - method: copy
     name: f_wi
@@ -3920,7 +3920,7 @@ assets:
     - name: files\F_WI060\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI060_PETE.bar
+  name: obj/F_WI060_PETE.mdlx
   source:
   - method: copy
     name: f_wi
@@ -3928,7 +3928,7 @@ assets:
     - name: files\F_WI060_PETE\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI070.bar
+  name: obj/F_WI070.mdlx
   source:
   - method: copy
     name: f_wi
@@ -3936,7 +3936,7 @@ assets:
     - name: files\F_WI070\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI080.bar
+  name: obj/F_WI080.mdlx
   source:
   - method: copy
     name: f_wi
@@ -3944,7 +3944,7 @@ assets:
     - name: files\F_WI080\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI090.bar
+  name: obj/F_WI090.mdlx
   source:
   - method: copy
     name: f_wi
@@ -3952,7 +3952,7 @@ assets:
     - name: files\F_WI090\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI100.bar
+  name: obj/F_WI100.mdlx
   source:
   - method: copy
     name: f_wi
@@ -3960,7 +3960,7 @@ assets:
     - name: files\F_WI100\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI110.bar
+  name: obj/F_WI110.mdlx
   source:
   - method: copy
     name: f_wi
@@ -3968,7 +3968,7 @@ assets:
     - name: files\F_WI110\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI120.bar
+  name: obj/F_WI120.mdlx
   source:
   - method: copy
     name: f_wi
@@ -3976,7 +3976,7 @@ assets:
     - name: files\F_WI120\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI130.bar
+  name: obj/F_WI130.mdlx
   source:
   - method: copy
     name: f_wi
@@ -3984,7 +3984,7 @@ assets:
     - name: files\F_WI130\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI140.bar
+  name: obj/F_WI140.mdlx
   source:
   - method: copy
     name: f_wi
@@ -3992,7 +3992,7 @@ assets:
     - name: files\F_WI140\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI150.bar
+  name: obj/F_WI150.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4000,7 +4000,7 @@ assets:
     - name: files\F_WI150\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI160.bar
+  name: obj/F_WI160.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4008,7 +4008,7 @@ assets:
     - name: files\F_WI160\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI170.bar
+  name: obj/F_WI170.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4016,7 +4016,7 @@ assets:
     - name: files\F_WI170\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI180.bar
+  name: obj/F_WI180.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4024,7 +4024,7 @@ assets:
     - name: files\F_WI180\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI190.bar
+  name: obj/F_WI190.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4032,7 +4032,7 @@ assets:
     - name: files\F_WI190\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI200.bar
+  name: obj/F_WI200.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4040,7 +4040,7 @@ assets:
     - name: files\F_WI200\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI210.bar
+  name: obj/F_WI210.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4048,7 +4048,7 @@ assets:
     - name: files\F_WI210\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI220.bar
+  name: obj/F_WI220.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4056,7 +4056,7 @@ assets:
     - name: files\F_WI220\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI230.bar
+  name: obj/F_WI230.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4064,7 +4064,7 @@ assets:
     - name: files\F_WI230\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI240.bar
+  name: obj/F_WI240.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4072,7 +4072,7 @@ assets:
     - name: files\F_WI240\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI250.bar
+  name: obj/F_WI250.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4080,7 +4080,7 @@ assets:
     - name: files\F_WI250\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI260.bar
+  name: obj/F_WI260.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4088,7 +4088,7 @@ assets:
     - name: files\F_WI260\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI270.bar
+  name: obj/F_WI270.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4096,7 +4096,7 @@ assets:
     - name: files\F_WI270\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI280.bar
+  name: obj/F_WI280.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4104,7 +4104,7 @@ assets:
     - name: files\F_WI280\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI290.bar
+  name: obj/F_WI290.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4112,7 +4112,7 @@ assets:
     - name: files\F_WI290\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI300.bar
+  name: obj/F_WI300.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4120,7 +4120,7 @@ assets:
     - name: files\F_WI300\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI310.bar
+  name: obj/F_WI310.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4128,7 +4128,7 @@ assets:
     - name: files\F_WI310\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI320.bar
+  name: obj/F_WI320.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4136,7 +4136,7 @@ assets:
     - name: files\F_WI320\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI330.bar
+  name: obj/F_WI330.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4144,7 +4144,7 @@ assets:
     - name: files\F_WI330\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI340.bar
+  name: obj/F_WI340.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4152,7 +4152,7 @@ assets:
     - name: files\F_WI340\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI350.bar
+  name: obj/F_WI350.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4160,7 +4160,7 @@ assets:
     - name: files\F_WI350\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI360.bar
+  name: obj/F_WI360.mdlx
   source:
   - method: copy
     name: AX00
@@ -4168,7 +4168,7 @@ assets:
     - name: files\F_WI360\AX00.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_WI360.bar
+  name: obj/F_WI360.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4176,7 +4176,7 @@ assets:
     - name: files\F_WI360\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI360_PETE.bar
+  name: obj/F_WI360_PETE.mdlx
   source:
   - method: copy
     name: AX00
@@ -4184,7 +4184,7 @@ assets:
     - name: files\F_WI360_PETE\AX00.og.mset
     type: Motionset
 - method: binarc
-  name: obj/F_WI360_PETE.bar
+  name: obj/F_WI360_PETE.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4192,7 +4192,7 @@ assets:
     - name: files\F_WI360_PETE\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI380.bar
+  name: obj/F_WI380.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4200,7 +4200,7 @@ assets:
     - name: files\F_WI380\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI380_RTN.bar
+  name: obj/F_WI380_RTN.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4208,7 +4208,7 @@ assets:
     - name: files\F_WI380_RTN\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI390.bar
+  name: obj/F_WI390.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4216,7 +4216,7 @@ assets:
     - name: files\F_WI390\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/F_WI390_RTN.bar
+  name: obj/F_WI390_RTN.mdlx
   source:
   - method: copy
     name: f_wi
@@ -4224,7 +4224,7 @@ assets:
     - name: files\F_WI390_RTN\f_wi.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/G_EB110.bar
+  name: obj/G_EB110.mdlx
   source:
   - method: copy
     name: g_eb
@@ -4232,7 +4232,7 @@ assets:
     - name: files\G_EB110\g_eb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/G_EC130.bar
+  name: obj/G_EC130.mdlx
   source:
   - method: copy
     name: g_ec
@@ -4240,7 +4240,7 @@ assets:
     - name: files\G_EC130\g_ec.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/G_EC140.bar
+  name: obj/G_EC140.mdlx
   source:
   - method: copy
     name: g_ec
@@ -4248,7 +4248,7 @@ assets:
     - name: files\G_EC140\g_ec.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/G_EC140_WHITE.bar
+  name: obj/G_EC140_WHITE.mdlx
   source:
   - method: copy
     name: g_ec
@@ -4256,7 +4256,7 @@ assets:
     - name: files\G_EC140_WHITE\g_ec.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/G_ED120.bar
+  name: obj/G_ED120.mdlx
   source:
   - method: copy
     name: g_ed
@@ -4264,7 +4264,7 @@ assets:
     - name: files\G_ED120\g_ed.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/G_EX100.bar
+  name: obj/G_EX100.mdlx
   source:
   - method: copy
     name: g_ex
@@ -4272,7 +4272,7 @@ assets:
     - name: files\G_EX100\g_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/G_EX220.bar
+  name: obj/G_EX220.mdlx
   source:
   - method: copy
     name: g_ex
@@ -4280,7 +4280,7 @@ assets:
     - name: files\G_EX220\g_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/G_EX220_G.bar
+  name: obj/G_EX220_G.mdlx
   source:
   - method: copy
     name: g_ex
@@ -4288,7 +4288,7 @@ assets:
     - name: files\G_EX220_G\g_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/G_EX220_R.bar
+  name: obj/G_EX220_R.mdlx
   source:
   - method: copy
     name: g_ex
@@ -4296,7 +4296,7 @@ assets:
     - name: files\G_EX220_R\g_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/G_OE170.bar
+  name: obj/G_OE170.mdlx
   source:
   - method: copy
     name: g_oe
@@ -4304,7 +4304,7 @@ assets:
     - name: files\G_OE170\g_oe.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_AL020_FIRE2.bar
+  name: obj/M_AL020_FIRE2.mdlx
   source:
   - method: copy
     name: m_al
@@ -4312,7 +4312,7 @@ assets:
     - name: files\M_AL020_FIRE2\m_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_AL020_ICEE2.bar
+  name: obj/M_AL020_ICEE2.mdlx
   source:
   - method: copy
     name: m_al
@@ -4320,7 +4320,7 @@ assets:
     - name: files\M_AL020_ICEE2\m_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX010.bar
+  name: obj/M_EX010.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4328,7 +4328,7 @@ assets:
     - name: files\M_EX010\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX010_NM.bar
+  name: obj/M_EX010_NM.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4336,7 +4336,7 @@ assets:
     - name: files\M_EX010_NM\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX010_TR.bar
+  name: obj/M_EX010_TR.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4344,7 +4344,7 @@ assets:
     - name: files\M_EX010_TR\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX010_WI.bar
+  name: obj/M_EX010_WI.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4352,7 +4352,7 @@ assets:
     - name: files\M_EX010_WI\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX020_NM.bar
+  name: obj/M_EX020_NM.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4360,7 +4360,7 @@ assets:
     - name: files\M_EX020_NM\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX050.bar
+  name: obj/M_EX050.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4368,7 +4368,7 @@ assets:
     - name: files\M_EX050\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX050_WI.bar
+  name: obj/M_EX050_WI.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4376,7 +4376,7 @@ assets:
     - name: files\M_EX050_WI\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX060.bar
+  name: obj/M_EX060.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4384,7 +4384,7 @@ assets:
     - name: files\M_EX060\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX110.bar
+  name: obj/M_EX110.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4392,7 +4392,7 @@ assets:
     - name: files\M_EX110\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX120.bar
+  name: obj/M_EX120.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4400,7 +4400,7 @@ assets:
     - name: files\M_EX120\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX120_NM.bar
+  name: obj/M_EX120_NM.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4408,7 +4408,7 @@ assets:
     - name: files\M_EX120_NM\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX120_TR.bar
+  name: obj/M_EX120_TR.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4416,7 +4416,7 @@ assets:
     - name: files\M_EX120_TR\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX130_AL.bar
+  name: obj/M_EX130_AL.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4424,7 +4424,7 @@ assets:
     - name: files\M_EX130_AL\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX200.bar
+  name: obj/M_EX200.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4432,7 +4432,7 @@ assets:
     - name: files\M_EX200\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX200_NM.bar
+  name: obj/M_EX200_NM.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4440,7 +4440,7 @@ assets:
     - name: files\M_EX200_NM\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX210.bar
+  name: obj/M_EX210.mdlx
   source:
   - method: copy
     name: AB60
@@ -4448,7 +4448,7 @@ assets:
     - name: files\M_EX210\AB60.og.mset
     type: Motionset
 - method: binarc
-  name: obj/M_EX210.bar
+  name: obj/M_EX210.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4456,7 +4456,7 @@ assets:
     - name: files\M_EX210\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX420_NM.bar
+  name: obj/M_EX420_NM.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4464,7 +4464,7 @@ assets:
     - name: files\M_EX420_NM\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX500.bar
+  name: obj/M_EX500.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4472,7 +4472,7 @@ assets:
     - name: files\M_EX500\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX500_NM.bar
+  name: obj/M_EX500_NM.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4480,7 +4480,7 @@ assets:
     - name: files\M_EX500_NM\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX510.bar
+  name: obj/M_EX510.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4488,7 +4488,7 @@ assets:
     - name: files\M_EX510\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX520.bar
+  name: obj/M_EX520.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4496,7 +4496,7 @@ assets:
     - name: files\M_EX520\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX520_AL.bar
+  name: obj/M_EX520_AL.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4504,7 +4504,7 @@ assets:
     - name: files\M_EX520_AL\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX530.bar
+  name: obj/M_EX530.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4512,7 +4512,7 @@ assets:
     - name: files\M_EX530\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX530_TR.bar
+  name: obj/M_EX530_TR.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4520,7 +4520,7 @@ assets:
     - name: files\M_EX530_TR\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX540.bar
+  name: obj/M_EX540.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4528,7 +4528,7 @@ assets:
     - name: files\M_EX540\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX540_WI.bar
+  name: obj/M_EX540_WI.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4536,7 +4536,7 @@ assets:
     - name: files\M_EX540_WI\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX550.bar
+  name: obj/M_EX550.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4544,7 +4544,7 @@ assets:
     - name: files\M_EX550\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX550_WI.bar
+  name: obj/M_EX550_WI.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4552,7 +4552,7 @@ assets:
     - name: files\M_EX550_WI\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX560.bar
+  name: obj/M_EX560.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4560,7 +4560,7 @@ assets:
     - name: files\M_EX560\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX560_WI.bar
+  name: obj/M_EX560_WI.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4568,7 +4568,7 @@ assets:
     - name: files\M_EX560_WI\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX570.bar
+  name: obj/M_EX570.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4576,7 +4576,7 @@ assets:
     - name: files\M_EX570\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX580.bar
+  name: obj/M_EX580.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4584,7 +4584,7 @@ assets:
     - name: files\M_EX580\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX590.bar
+  name: obj/M_EX590.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4592,7 +4592,7 @@ assets:
     - name: files\M_EX590\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX620.bar
+  name: obj/M_EX620.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4600,7 +4600,7 @@ assets:
     - name: files\M_EX620\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX620_AL.bar
+  name: obj/M_EX620_AL.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4608,7 +4608,7 @@ assets:
     - name: files\M_EX620_AL\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX630.bar
+  name: obj/M_EX630.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4616,7 +4616,7 @@ assets:
     - name: files\M_EX630\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX640.bar
+  name: obj/M_EX640.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4624,7 +4624,7 @@ assets:
     - name: files\M_EX640\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX640_WI.bar
+  name: obj/M_EX640_WI.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4632,7 +4632,7 @@ assets:
     - name: files\M_EX640_WI\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX650.bar
+  name: obj/M_EX650.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4640,7 +4640,7 @@ assets:
     - name: files\M_EX650\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX650_TR.bar
+  name: obj/M_EX650_TR.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4648,7 +4648,7 @@ assets:
     - name: files\M_EX650_TR\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX660.bar
+  name: obj/M_EX660.mdlx
   source:
   - method: copy
     name: AB20
@@ -4656,7 +4656,7 @@ assets:
     - name: files\M_EX660\AB20.og.mset
     type: Motionset
 - method: binarc
-  name: obj/M_EX660.bar
+  name: obj/M_EX660.mdlx
   source:
   - method: copy
     name: AB21
@@ -4664,7 +4664,7 @@ assets:
     - name: files\M_EX660\AB21.og.mset
     type: Motionset
 - method: binarc
-  name: obj/M_EX660.bar
+  name: obj/M_EX660.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4672,7 +4672,7 @@ assets:
     - name: files\M_EX660\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX660_AL.bar
+  name: obj/M_EX660_AL.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4680,7 +4680,7 @@ assets:
     - name: files\M_EX660_AL\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX660_RAW.bar
+  name: obj/M_EX660_RAW.mdlx
   source:
   - method: copy
     name: AB20
@@ -4688,7 +4688,7 @@ assets:
     - name: files\M_EX660_RAW\AB20.og.mset
     type: Motionset
 - method: binarc
-  name: obj/M_EX660_RAW.bar
+  name: obj/M_EX660_RAW.mdlx
   source:
   - method: copy
     name: AB21
@@ -4696,7 +4696,7 @@ assets:
     - name: files\M_EX660_RAW\AB21.og.mset
     type: Motionset
 - method: binarc
-  name: obj/M_EX660_RAW.bar
+  name: obj/M_EX660_RAW.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4704,7 +4704,7 @@ assets:
     - name: files\M_EX660_RAW\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX660_WI.bar
+  name: obj/M_EX660_WI.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4712,7 +4712,7 @@ assets:
     - name: files\M_EX660_WI\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX670.bar
+  name: obj/M_EX670.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4720,7 +4720,7 @@ assets:
     - name: files\M_EX670\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX680.bar
+  name: obj/M_EX680.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4728,7 +4728,7 @@ assets:
     - name: files\M_EX680\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX690.bar
+  name: obj/M_EX690.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4736,7 +4736,7 @@ assets:
     - name: files\M_EX690\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX700.bar
+  name: obj/M_EX700.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4744,7 +4744,7 @@ assets:
     - name: files\M_EX700\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX700_NM.bar
+  name: obj/M_EX700_NM.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4752,7 +4752,7 @@ assets:
     - name: files\M_EX700_NM\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX710.bar
+  name: obj/M_EX710.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4760,7 +4760,7 @@ assets:
     - name: files\M_EX710\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX720.bar
+  name: obj/M_EX720.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4768,7 +4768,7 @@ assets:
     - name: files\M_EX720\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX730.bar
+  name: obj/M_EX730.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4776,7 +4776,7 @@ assets:
     - name: files\M_EX730\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX740.bar
+  name: obj/M_EX740.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4784,7 +4784,7 @@ assets:
     - name: files\M_EX740\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX750.bar
+  name: obj/M_EX750.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4792,7 +4792,7 @@ assets:
     - name: files\M_EX750\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX750_NM.bar
+  name: obj/M_EX750_NM.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4800,7 +4800,7 @@ assets:
     - name: files\M_EX750_NM\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX760.bar
+  name: obj/M_EX760.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4808,7 +4808,7 @@ assets:
     - name: files\M_EX760\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX760_NM.bar
+  name: obj/M_EX760_NM.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4816,7 +4816,7 @@ assets:
     - name: files\M_EX760_NM\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX760_RAW.bar
+  name: obj/M_EX760_RAW.mdlx
   source:
   - method: copy
     name: AB50
@@ -4824,7 +4824,7 @@ assets:
     - name: files\M_EX760_RAW\AB50.og.mset
     type: Motionset
 - method: binarc
-  name: obj/M_EX760_RAW.bar
+  name: obj/M_EX760_RAW.mdlx
   source:
   - method: copy
     name: AB51
@@ -4832,7 +4832,7 @@ assets:
     - name: files\M_EX760_RAW\AB51.og.mset
     type: Motionset
 - method: binarc
-  name: obj/M_EX760_RAW.bar
+  name: obj/M_EX760_RAW.mdlx
   source:
   - method: copy
     name: AB52
@@ -4840,7 +4840,7 @@ assets:
     - name: files\M_EX760_RAW\AB52.og.mset
     type: Motionset
 - method: binarc
-  name: obj/M_EX760_RAW.bar
+  name: obj/M_EX760_RAW.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4848,7 +4848,7 @@ assets:
     - name: files\M_EX760_RAW\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX770.bar
+  name: obj/M_EX770.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4856,7 +4856,7 @@ assets:
     - name: files\M_EX770\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX770_RAW.bar
+  name: obj/M_EX770_RAW.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4864,7 +4864,7 @@ assets:
     - name: files\M_EX770_RAW\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX770_TR.bar
+  name: obj/M_EX770_TR.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4872,7 +4872,7 @@ assets:
     - name: files\M_EX770_TR\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX780.bar
+  name: obj/M_EX780.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4880,7 +4880,7 @@ assets:
     - name: files\M_EX780\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX790.bar
+  name: obj/M_EX790.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4888,7 +4888,7 @@ assets:
     - name: files\M_EX790\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX790_CHRISTMAS.bar
+  name: obj/M_EX790_CHRISTMAS.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4896,7 +4896,7 @@ assets:
     - name: files\M_EX790_CHRISTMAS\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX790_CHRISTMAS_NM.bar
+  name: obj/M_EX790_CHRISTMAS_NM.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4904,7 +4904,7 @@ assets:
     - name: files\M_EX790_CHRISTMAS_NM\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX790_HALLOWEEN.bar
+  name: obj/M_EX790_HALLOWEEN.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4912,7 +4912,7 @@ assets:
     - name: files\M_EX790_HALLOWEEN\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX790_HALLOWEEN_NM.bar
+  name: obj/M_EX790_HALLOWEEN_NM.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4920,7 +4920,7 @@ assets:
     - name: files\M_EX790_HALLOWEEN_NM\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX800.bar
+  name: obj/M_EX800.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4928,7 +4928,7 @@ assets:
     - name: files\M_EX800\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX800_DC.bar
+  name: obj/M_EX800_DC.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4936,7 +4936,7 @@ assets:
     - name: files\M_EX800_DC\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX800_MU.bar
+  name: obj/M_EX800_MU.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4944,7 +4944,7 @@ assets:
     - name: files\M_EX800_MU\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX800_MU_RAW.bar
+  name: obj/M_EX800_MU_RAW.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4952,7 +4952,7 @@ assets:
     - name: files\M_EX800_MU_RAW\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX800_RAW.bar
+  name: obj/M_EX800_RAW.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4960,7 +4960,7 @@ assets:
     - name: files\M_EX800_RAW\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX850.bar
+  name: obj/M_EX850.mdlx
   source:
   - method: copy
     name: AC10
@@ -4968,7 +4968,7 @@ assets:
     - name: files\M_EX850\AC10.og.mset
     type: Motionset
 - method: binarc
-  name: obj/M_EX850.bar
+  name: obj/M_EX850.mdlx
   source:
   - method: copy
     name: AC11
@@ -4976,7 +4976,7 @@ assets:
     - name: files\M_EX850\AC11.og.mset
     type: Motionset
 - method: binarc
-  name: obj/M_EX850.bar
+  name: obj/M_EX850.mdlx
   source:
   - method: copy
     name: AC12
@@ -4984,7 +4984,7 @@ assets:
     - name: files\M_EX850\AC12.og.mset
     type: Motionset
 - method: binarc
-  name: obj/M_EX850.bar
+  name: obj/M_EX850.mdlx
   source:
   - method: copy
     name: m_ex
@@ -4992,7 +4992,7 @@ assets:
     - name: files\M_EX850\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX880.bar
+  name: obj/M_EX880.mdlx
   source:
   - method: copy
     name: m_ex
@@ -5000,7 +5000,7 @@ assets:
     - name: files\M_EX880\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX880_DANCER.bar
+  name: obj/M_EX880_DANCER.mdlx
   source:
   - method: copy
     name: AD20
@@ -5008,7 +5008,7 @@ assets:
     - name: files\M_EX880_DANCER\AD20.og.mset
     type: Motionset
 - method: binarc
-  name: obj/M_EX880_DANCER.bar
+  name: obj/M_EX880_DANCER.mdlx
   source:
   - method: copy
     name: m_ex
@@ -5016,7 +5016,7 @@ assets:
     - name: files\M_EX880_DANCER\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX880_DANCER_EH.bar
+  name: obj/M_EX880_DANCER_EH.mdlx
   source:
   - method: copy
     name: m_ex
@@ -5024,7 +5024,7 @@ assets:
     - name: files\M_EX880_DANCER_EH\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX890.bar
+  name: obj/M_EX890.mdlx
   source:
   - method: copy
     name: m_ex
@@ -5032,7 +5032,7 @@ assets:
     - name: files\M_EX890\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX900.bar
+  name: obj/M_EX900.mdlx
   source:
   - method: copy
     name: m_ex
@@ -5040,7 +5040,7 @@ assets:
     - name: files\M_EX900\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX910.bar
+  name: obj/M_EX910.mdlx
   source:
   - method: copy
     name: m_ex
@@ -5048,7 +5048,7 @@ assets:
     - name: files\M_EX910\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX920.bar
+  name: obj/M_EX920.mdlx
   source:
   - method: copy
     name: m_ex
@@ -5056,7 +5056,7 @@ assets:
     - name: files\M_EX920\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX930.bar
+  name: obj/M_EX930.mdlx
   source:
   - method: copy
     name: m_ex
@@ -5064,7 +5064,7 @@ assets:
     - name: files\M_EX930\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX940.bar
+  name: obj/M_EX940.mdlx
   source:
   - method: copy
     name: m_ex
@@ -5072,7 +5072,7 @@ assets:
     - name: files\M_EX940\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX950.bar
+  name: obj/M_EX950.mdlx
   source:
   - method: copy
     name: m_ex
@@ -5080,7 +5080,7 @@ assets:
     - name: files\M_EX950\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX960.bar
+  name: obj/M_EX960.mdlx
   source:
   - method: copy
     name: m_ex
@@ -5088,7 +5088,7 @@ assets:
     - name: files\M_EX960\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX990.bar
+  name: obj/M_EX990.mdlx
   source:
   - method: copy
     name: m_ex
@@ -5096,7 +5096,7 @@ assets:
     - name: files\M_EX990\m_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX990_RTN.bar
+  name: obj/M_EX990_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5104,7 +5104,7 @@ assets:
     - name: files\M_EX990_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX990_RTN_FIXCOLOR.bar
+  name: obj/M_EX990_RTN_FIXCOLOR.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5112,7 +5112,7 @@ assets:
     - name: files\M_EX990_RTN_FIXCOLOR\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/M_EX990_ZIPPER_RTN.bar
+  name: obj/M_EX990_ZIPPER_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5120,7 +5120,7 @@ assets:
     - name: files\M_EX990_ZIPPER_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_AL030_RTN.bar
+  name: obj/N_AL030_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5128,7 +5128,7 @@ assets:
     - name: files\N_AL030_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_AL040_RTN.bar
+  name: obj/N_AL040_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5136,7 +5136,7 @@ assets:
     - name: files\N_AL040_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_AL070_BTL.bar
+  name: obj/N_AL070_BTL.mdlx
   source:
   - method: copy
     name: n_al
@@ -5144,7 +5144,7 @@ assets:
     - name: files\N_AL070_BTL\n_al.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_AL080_RTN.bar
+  name: obj/N_AL080_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5152,7 +5152,7 @@ assets:
     - name: files\N_AL080_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_BB010_RTN.bar
+  name: obj/N_BB010_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5160,7 +5160,7 @@ assets:
     - name: files\N_BB010_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_BB010_SIT_RTN.bar
+  name: obj/N_BB010_SIT_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5168,7 +5168,7 @@ assets:
     - name: files\N_BB010_SIT_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_BB020_RTN.bar
+  name: obj/N_BB020_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5176,7 +5176,7 @@ assets:
     - name: files\N_BB020_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_BB040_RTN.bar
+  name: obj/N_BB040_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5184,7 +5184,7 @@ assets:
     - name: files\N_BB040_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_BB050_BTL.bar
+  name: obj/N_BB050_BTL.mdlx
   source:
   - method: copy
     name: n_bb
@@ -5192,7 +5192,7 @@ assets:
     - name: files\N_BB050_BTL\n_bb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_BB050_RTN.bar
+  name: obj/N_BB050_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5200,7 +5200,7 @@ assets:
     - name: files\N_BB050_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_BB050_SAD_RTN.bar
+  name: obj/N_BB050_SAD_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5208,7 +5208,7 @@ assets:
     - name: files\N_BB050_SAD_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_BB060_BTL.bar
+  name: obj/N_BB060_BTL.mdlx
   source:
   - method: copy
     name: n_bb
@@ -5216,7 +5216,7 @@ assets:
     - name: files\N_BB060_BTL\n_bb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_BB060_RTN.bar
+  name: obj/N_BB060_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5224,7 +5224,7 @@ assets:
     - name: files\N_BB060_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_BB070_BTL.bar
+  name: obj/N_BB070_BTL.mdlx
   source:
   - method: copy
     name: n_bb
@@ -5232,7 +5232,7 @@ assets:
     - name: files\N_BB070_BTL\n_bb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_BB070_RTN.bar
+  name: obj/N_BB070_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5240,7 +5240,7 @@ assets:
     - name: files\N_BB070_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_BB080_BTL.bar
+  name: obj/N_BB080_BTL.mdlx
   source:
   - method: copy
     name: n_bb
@@ -5248,7 +5248,7 @@ assets:
     - name: files\N_BB080_BTL\n_bb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_BB080_RTN.bar
+  name: obj/N_BB080_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5256,7 +5256,7 @@ assets:
     - name: files\N_BB080_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_CA010_RTN.bar
+  name: obj/N_CA010_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5264,7 +5264,7 @@ assets:
     - name: files\N_CA010_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_CA010_SAD_RTN.bar
+  name: obj/N_CA010_SAD_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5272,7 +5272,7 @@ assets:
     - name: files\N_CA010_SAD_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_CA020_KAJI_RTN.bar
+  name: obj/N_CA020_KAJI_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5280,7 +5280,7 @@ assets:
     - name: files\N_CA020_KAJI_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_CA020_RTN.bar
+  name: obj/N_CA020_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5288,7 +5288,7 @@ assets:
     - name: files\N_CA020_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_CA020_SIT_RTN.bar
+  name: obj/N_CA020_SIT_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5296,7 +5296,7 @@ assets:
     - name: files\N_CA020_SIT_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_DC010_BTL.bar
+  name: obj/N_DC010_BTL.mdlx
   source:
   - method: copy
     name: n_dc
@@ -5304,7 +5304,7 @@ assets:
     - name: files\N_DC010_BTL\n_dc.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_DC010_RTN.bar
+  name: obj/N_DC010_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5312,7 +5312,7 @@ assets:
     - name: files\N_DC010_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_DC020_RTN.bar
+  name: obj/N_DC020_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5320,7 +5320,7 @@ assets:
     - name: files\N_DC020_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_DC030_RTN.bar
+  name: obj/N_DC030_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5328,7 +5328,7 @@ assets:
     - name: files\N_DC030_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_DC040_RTN.bar
+  name: obj/N_DC040_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5336,7 +5336,7 @@ assets:
     - name: files\N_DC040_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_DC050_RTN.bar
+  name: obj/N_DC050_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5344,7 +5344,7 @@ assets:
     - name: files\N_DC050_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX500_ANGER_RAW_RTN.bar
+  name: obj/N_EX500_ANGER_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5352,7 +5352,7 @@ assets:
     - name: files\N_EX500_ANGER_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX500_ANGER_RTN.bar
+  name: obj/N_EX500_ANGER_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5360,7 +5360,7 @@ assets:
     - name: files\N_EX500_ANGER_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX500_BTL.bar
+  name: obj/N_EX500_BTL.mdlx
   source:
   - method: copy
     name: n_ex
@@ -5368,7 +5368,7 @@ assets:
     - name: files\N_EX500_BTL\n_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX500_MONEY_RTN.bar
+  name: obj/N_EX500_MONEY_RTN.mdlx
   source:
   - method: copy
     name: n_ex
@@ -5376,7 +5376,7 @@ assets:
     - name: files\N_EX500_MONEY_RTN\n_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX500_RAW_RTN.bar
+  name: obj/N_EX500_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5384,7 +5384,7 @@ assets:
     - name: files\N_EX500_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX500_RTN.bar
+  name: obj/N_EX500_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5392,7 +5392,7 @@ assets:
     - name: files\N_EX500_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX510_RAW_RTN.bar
+  name: obj/N_EX510_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5400,7 +5400,7 @@ assets:
     - name: files\N_EX510_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX510_RTN.bar
+  name: obj/N_EX510_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5408,7 +5408,7 @@ assets:
     - name: files\N_EX510_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX520_RAW_RTN.bar
+  name: obj/N_EX520_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5416,7 +5416,7 @@ assets:
     - name: files\N_EX520_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX520_RTN.bar
+  name: obj/N_EX520_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5424,7 +5424,7 @@ assets:
     - name: files\N_EX520_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX560_RTN.bar
+  name: obj/N_EX560_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5432,7 +5432,7 @@ assets:
     - name: files\N_EX560_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX570_BTL.bar
+  name: obj/N_EX570_BTL.mdlx
   source:
   - method: copy
     name: n_ex
@@ -5440,7 +5440,7 @@ assets:
     - name: files\N_EX570_BTL\n_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX570_RAW_RTN.bar
+  name: obj/N_EX570_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5448,7 +5448,7 @@ assets:
     - name: files\N_EX570_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX570_RTN.bar
+  name: obj/N_EX570_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5456,7 +5456,7 @@ assets:
     - name: files\N_EX570_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX580_RAW_RTN.bar
+  name: obj/N_EX580_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5464,7 +5464,7 @@ assets:
     - name: files\N_EX580_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX580_RTN.bar
+  name: obj/N_EX580_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5472,7 +5472,7 @@ assets:
     - name: files\N_EX580_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX590_RAW_RTN.bar
+  name: obj/N_EX590_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5480,7 +5480,7 @@ assets:
     - name: files\N_EX590_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX590_RTN.bar
+  name: obj/N_EX590_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5488,7 +5488,7 @@ assets:
     - name: files\N_EX590_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX600_BTL.bar
+  name: obj/N_EX600_BTL.mdlx
   source:
   - method: copy
     name: n_ex
@@ -5496,7 +5496,7 @@ assets:
     - name: files\N_EX600_BTL\n_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX600_RAW_RTN.bar
+  name: obj/N_EX600_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5504,7 +5504,7 @@ assets:
     - name: files\N_EX600_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX600_RTN.bar
+  name: obj/N_EX600_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5512,7 +5512,7 @@ assets:
     - name: files\N_EX600_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX610_BTL.bar
+  name: obj/N_EX610_BTL.mdlx
   source:
   - method: copy
     name: n_ex
@@ -5520,7 +5520,7 @@ assets:
     - name: files\N_EX610_BTL\n_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX610_BTL2.bar
+  name: obj/N_EX610_BTL2.mdlx
   source:
   - method: copy
     name: n_ex
@@ -5528,7 +5528,7 @@ assets:
     - name: files\N_EX610_BTL2\n_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX610_RAW_RTN.bar
+  name: obj/N_EX610_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5536,7 +5536,7 @@ assets:
     - name: files\N_EX610_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX610_RTN.bar
+  name: obj/N_EX610_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5544,7 +5544,7 @@ assets:
     - name: files\N_EX610_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX620_RTN.bar
+  name: obj/N_EX620_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5552,7 +5552,7 @@ assets:
     - name: files\N_EX620_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX640_MOOGLE_RTN.bar
+  name: obj/N_EX640_MOOGLE_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5560,7 +5560,7 @@ assets:
     - name: files\N_EX640_MOOGLE_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX640_SHOP_RTN.bar
+  name: obj/N_EX640_SHOP_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5568,7 +5568,7 @@ assets:
     - name: files\N_EX640_SHOP_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX650_BTL1.bar
+  name: obj/N_EX650_BTL1.mdlx
   source:
   - method: copy
     name: tt_a
@@ -5576,7 +5576,7 @@ assets:
     - name: files\N_EX650_BTL1\tt_a.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX650_BTL10.bar
+  name: obj/N_EX650_BTL10.mdlx
   source:
   - method: copy
     name: tt_a
@@ -5584,7 +5584,7 @@ assets:
     - name: files\N_EX650_BTL10\tt_a.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX650_BTL2.bar
+  name: obj/N_EX650_BTL2.mdlx
   source:
   - method: copy
     name: tt_a
@@ -5592,7 +5592,7 @@ assets:
     - name: files\N_EX650_BTL2\tt_a.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX650_HB_BOY_A_RTN.bar
+  name: obj/N_EX650_HB_BOY_A_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5600,7 +5600,7 @@ assets:
     - name: files\N_EX650_HB_BOY_A_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX650_HB_ITEM_RTN.bar
+  name: obj/N_EX650_HB_ITEM_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5608,7 +5608,7 @@ assets:
     - name: files\N_EX650_HB_ITEM_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX650_HB_PROTECT_RTN.bar
+  name: obj/N_EX650_HB_PROTECT_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5616,7 +5616,7 @@ assets:
     - name: files\N_EX650_HB_PROTECT_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX650_TT_BOY_A_RTN.bar
+  name: obj/N_EX650_TT_BOY_A_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5624,7 +5624,7 @@ assets:
     - name: files\N_EX650_TT_BOY_A_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX650_TT_BOY_B_RTN.bar
+  name: obj/N_EX650_TT_BOY_B_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5632,7 +5632,7 @@ assets:
     - name: files\N_EX650_TT_BOY_B_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX650_TT_B_SKATE_RTN.bar
+  name: obj/N_EX650_TT_B_SKATE_RTN.mdlx
   source:
   - method: copy
     name: n_ex
@@ -5640,7 +5640,7 @@ assets:
     - name: files\N_EX650_TT_B_SKATE_RTN\n_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX650_TT_ITEM_RTN.bar
+  name: obj/N_EX650_TT_ITEM_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5648,7 +5648,7 @@ assets:
     - name: files\N_EX650_TT_ITEM_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX650_TT_PROTECT_RTN.bar
+  name: obj/N_EX650_TT_PROTECT_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5656,7 +5656,7 @@ assets:
     - name: files\N_EX650_TT_PROTECT_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX660_HB_LADY_A_RTN.bar
+  name: obj/N_EX660_HB_LADY_A_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5664,7 +5664,7 @@ assets:
     - name: files\N_EX660_HB_LADY_A_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX660_TT_LADY_A_RTN.bar
+  name: obj/N_EX660_TT_LADY_A_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5672,7 +5672,7 @@ assets:
     - name: files\N_EX660_TT_LADY_A_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX670_BTL1.bar
+  name: obj/N_EX670_BTL1.mdlx
   source:
   - method: copy
     name: tt_a
@@ -5680,7 +5680,7 @@ assets:
     - name: files\N_EX670_BTL1\tt_a.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX670_BTL10.bar
+  name: obj/N_EX670_BTL10.mdlx
   source:
   - method: copy
     name: tt_a
@@ -5688,7 +5688,7 @@ assets:
     - name: files\N_EX670_BTL10\tt_a.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX670_BTL2.bar
+  name: obj/N_EX670_BTL2.mdlx
   source:
   - method: copy
     name: tt_a
@@ -5696,7 +5696,7 @@ assets:
     - name: files\N_EX670_BTL2\tt_a.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX670_HB_GIRL_A_RTN.bar
+  name: obj/N_EX670_HB_GIRL_A_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5704,7 +5704,7 @@ assets:
     - name: files\N_EX670_HB_GIRL_A_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX670_TT_A_SKATE_RTN.bar
+  name: obj/N_EX670_TT_A_SKATE_RTN.mdlx
   source:
   - method: copy
     name: n_ex
@@ -5712,7 +5712,7 @@ assets:
     - name: files\N_EX670_TT_A_SKATE_RTN\n_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX670_TT_GIRL_A_RTN.bar
+  name: obj/N_EX670_TT_GIRL_A_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5720,7 +5720,7 @@ assets:
     - name: files\N_EX670_TT_GIRL_A_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX670_TT_GIRL_B_RTN.bar
+  name: obj/N_EX670_TT_GIRL_B_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5728,7 +5728,7 @@ assets:
     - name: files\N_EX670_TT_GIRL_B_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX680_BTL1.bar
+  name: obj/N_EX680_BTL1.mdlx
   source:
   - method: copy
     name: tt_a
@@ -5736,7 +5736,7 @@ assets:
     - name: files\N_EX680_BTL1\tt_a.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX680_BTL10.bar
+  name: obj/N_EX680_BTL10.mdlx
   source:
   - method: copy
     name: tt_a
@@ -5744,7 +5744,7 @@ assets:
     - name: files\N_EX680_BTL10\tt_a.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX680_BTL2.bar
+  name: obj/N_EX680_BTL2.mdlx
   source:
   - method: copy
     name: tt_a
@@ -5752,7 +5752,7 @@ assets:
     - name: files\N_EX680_BTL2\tt_a.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX680_HB_ITEM_RTN.bar
+  name: obj/N_EX680_HB_ITEM_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5760,7 +5760,7 @@ assets:
     - name: files\N_EX680_HB_ITEM_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX680_HB_MAN_A_RTN.bar
+  name: obj/N_EX680_HB_MAN_A_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5768,7 +5768,7 @@ assets:
     - name: files\N_EX680_HB_MAN_A_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX680_HB_MAN_B_RTN.bar
+  name: obj/N_EX680_HB_MAN_B_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5776,7 +5776,7 @@ assets:
     - name: files\N_EX680_HB_MAN_B_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX680_HB_PROTECT_RTN.bar
+  name: obj/N_EX680_HB_PROTECT_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5784,7 +5784,7 @@ assets:
     - name: files\N_EX680_HB_PROTECT_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX680_TT_B_SKATE_RTN.bar
+  name: obj/N_EX680_TT_B_SKATE_RTN.mdlx
   source:
   - method: copy
     name: n_ex
@@ -5792,7 +5792,7 @@ assets:
     - name: files\N_EX680_TT_B_SKATE_RTN\n_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX680_TT_ITEM_RTN.bar
+  name: obj/N_EX680_TT_ITEM_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5800,7 +5800,7 @@ assets:
     - name: files\N_EX680_TT_ITEM_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX680_TT_MAN_A_RTN.bar
+  name: obj/N_EX680_TT_MAN_A_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5808,7 +5808,7 @@ assets:
     - name: files\N_EX680_TT_MAN_A_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX680_TT_MAN_B_RTN.bar
+  name: obj/N_EX680_TT_MAN_B_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5816,7 +5816,7 @@ assets:
     - name: files\N_EX680_TT_MAN_B_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX680_TT_PROTECT_RAW_RTN.bar
+  name: obj/N_EX680_TT_PROTECT_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5824,7 +5824,7 @@ assets:
     - name: files\N_EX680_TT_PROTECT_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX680_TT_PROTECT_RTN.bar
+  name: obj/N_EX680_TT_PROTECT_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5832,7 +5832,7 @@ assets:
     - name: files\N_EX680_TT_PROTECT_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX680_TT_PRT_RAW_RTN.bar
+  name: obj/N_EX680_TT_PRT_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5840,7 +5840,7 @@ assets:
     - name: files\N_EX680_TT_PRT_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX680_TT_REFEREE_RAW_RTN.bar
+  name: obj/N_EX680_TT_REFEREE_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5848,7 +5848,7 @@ assets:
     - name: files\N_EX680_TT_REFEREE_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX680_TT_REFEREE_RTN.bar
+  name: obj/N_EX680_TT_REFEREE_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5856,7 +5856,7 @@ assets:
     - name: files\N_EX680_TT_REFEREE_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX680_TT_REF_RAW_RTN.bar
+  name: obj/N_EX680_TT_REF_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5864,7 +5864,7 @@ assets:
     - name: files\N_EX680_TT_REF_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX690_BTL1.bar
+  name: obj/N_EX690_BTL1.mdlx
   source:
   - method: copy
     name: tt_a
@@ -5872,7 +5872,7 @@ assets:
     - name: files\N_EX690_BTL1\tt_a.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX690_BTL10.bar
+  name: obj/N_EX690_BTL10.mdlx
   source:
   - method: copy
     name: tt_a
@@ -5880,7 +5880,7 @@ assets:
     - name: files\N_EX690_BTL10\tt_a.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX690_BTL2.bar
+  name: obj/N_EX690_BTL2.mdlx
   source:
   - method: copy
     name: tt_a
@@ -5888,7 +5888,7 @@ assets:
     - name: files\N_EX690_BTL2\tt_a.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX690_HB_ACCE_RTN.bar
+  name: obj/N_EX690_HB_ACCE_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5896,7 +5896,7 @@ assets:
     - name: files\N_EX690_HB_ACCE_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX690_HB_WOMAN_A_RTN.bar
+  name: obj/N_EX690_HB_WOMAN_A_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5904,7 +5904,7 @@ assets:
     - name: files\N_EX690_HB_WOMAN_A_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX690_HB_WOMAN_B_RTN.bar
+  name: obj/N_EX690_HB_WOMAN_B_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5912,7 +5912,7 @@ assets:
     - name: files\N_EX690_HB_WOMAN_B_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX690_TT_ACCE_RAW_RTN.bar
+  name: obj/N_EX690_TT_ACCE_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5920,7 +5920,7 @@ assets:
     - name: files\N_EX690_TT_ACCE_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX690_TT_ACCE_RTN.bar
+  name: obj/N_EX690_TT_ACCE_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5928,7 +5928,7 @@ assets:
     - name: files\N_EX690_TT_ACCE_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX690_TT_ACC_RAW_RTN.bar
+  name: obj/N_EX690_TT_ACC_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5936,7 +5936,7 @@ assets:
     - name: files\N_EX690_TT_ACC_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX690_TT_A_SKATE_RTN.bar
+  name: obj/N_EX690_TT_A_SKATE_RTN.mdlx
   source:
   - method: copy
     name: n_ex
@@ -5944,7 +5944,7 @@ assets:
     - name: files\N_EX690_TT_A_SKATE_RTN\n_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX690_TT_TUTOR_RTN.bar
+  name: obj/N_EX690_TT_TUTOR_RTN.mdlx
   source:
   - method: copy
     name: n_ex
@@ -5952,7 +5952,7 @@ assets:
     - name: files\N_EX690_TT_TUTOR_RTN\n_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX690_TT_WOMAN_A_RTN.bar
+  name: obj/N_EX690_TT_WOMAN_A_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5960,7 +5960,7 @@ assets:
     - name: files\N_EX690_TT_WOMAN_A_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX690_TT_WOMAN_B_RTN.bar
+  name: obj/N_EX690_TT_WOMAN_B_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5968,7 +5968,7 @@ assets:
     - name: files\N_EX690_TT_WOMAN_B_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX700_HB_WEAPON_RTN.bar
+  name: obj/N_EX700_HB_WEAPON_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5976,7 +5976,7 @@ assets:
     - name: files\N_EX700_HB_WEAPON_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX700_TT_GENTL_A_RTN.bar
+  name: obj/N_EX700_TT_GENTL_A_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5984,7 +5984,7 @@ assets:
     - name: files\N_EX700_TT_GENTL_A_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX700_TT_GENTL_B_RTN.bar
+  name: obj/N_EX700_TT_GENTL_B_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -5992,7 +5992,7 @@ assets:
     - name: files\N_EX700_TT_GENTL_B_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX700_TT_SPONSOR_RTN.bar
+  name: obj/N_EX700_TT_SPONSOR_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6000,7 +6000,7 @@ assets:
     - name: files\N_EX700_TT_SPONSOR_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX700_TT_SPO_RAW_RTN.bar
+  name: obj/N_EX700_TT_SPO_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6008,7 +6008,7 @@ assets:
     - name: files\N_EX700_TT_SPO_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX700_TT_WEAPON_RAW_RTN.bar
+  name: obj/N_EX700_TT_WEAPON_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6016,7 +6016,7 @@ assets:
     - name: files\N_EX700_TT_WEAPON_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX700_TT_WEAPON_RTN.bar
+  name: obj/N_EX700_TT_WEAPON_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6024,7 +6024,7 @@ assets:
     - name: files\N_EX700_TT_WEAPON_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX700_TT_WPN_RAW_RTN.bar
+  name: obj/N_EX700_TT_WPN_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6032,7 +6032,7 @@ assets:
     - name: files\N_EX700_TT_WPN_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX710_HB_OLD_F_A_RTN.bar
+  name: obj/N_EX710_HB_OLD_F_A_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6040,7 +6040,7 @@ assets:
     - name: files\N_EX710_HB_OLD_F_A_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX710_TT_OLD_F_A_RTN.bar
+  name: obj/N_EX710_TT_OLD_F_A_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6048,7 +6048,7 @@ assets:
     - name: files\N_EX710_TT_OLD_F_A_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX710_TT_SWEETS_RAW_RTN.bar
+  name: obj/N_EX710_TT_SWEETS_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6056,7 +6056,7 @@ assets:
     - name: files\N_EX710_TT_SWEETS_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX710_TT_SWEETS_RTN.bar
+  name: obj/N_EX710_TT_SWEETS_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6064,7 +6064,7 @@ assets:
     - name: files\N_EX710_TT_SWEETS_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX710_TT_SWT_RAW_RTN.bar
+  name: obj/N_EX710_TT_SWT_RAW_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6072,7 +6072,7 @@ assets:
     - name: files\N_EX710_TT_SWT_RAW_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX720_RTN.bar
+  name: obj/N_EX720_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6080,7 +6080,7 @@ assets:
     - name: files\N_EX720_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX730_RTN.bar
+  name: obj/N_EX730_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6088,7 +6088,7 @@ assets:
     - name: files\N_EX730_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX730_TUTORIAL_RTN.bar
+  name: obj/N_EX730_TUTORIAL_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6096,7 +6096,7 @@ assets:
     - name: files\N_EX730_TUTORIAL_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX740_TT_SKATE_RTN.bar
+  name: obj/N_EX740_TT_SKATE_RTN.mdlx
   source:
   - method: copy
     name: n_ex
@@ -6104,7 +6104,7 @@ assets:
     - name: files\N_EX740_TT_SKATE_RTN\n_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX760_RTN.bar
+  name: obj/N_EX760_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6112,7 +6112,7 @@ assets:
     - name: files\N_EX760_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX810_HB_OLD_M_A_RTN.bar
+  name: obj/N_EX810_HB_OLD_M_A_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6120,7 +6120,7 @@ assets:
     - name: files\N_EX810_HB_OLD_M_A_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX810_TT_OLD_M_A_RTN.bar
+  name: obj/N_EX810_TT_OLD_M_A_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6128,7 +6128,7 @@ assets:
     - name: files\N_EX810_TT_OLD_M_A_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_EX900_RTN.bar
+  name: obj/N_EX900_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6136,7 +6136,7 @@ assets:
     - name: files\N_EX900_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB010_RTN.bar
+  name: obj/N_HB010_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6144,7 +6144,7 @@ assets:
     - name: files\N_HB010_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB020_DEWEY_RTN.bar
+  name: obj/N_HB020_DEWEY_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6152,7 +6152,7 @@ assets:
     - name: files\N_HB020_DEWEY_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB020_HUEY_RTN.bar
+  name: obj/N_HB020_HUEY_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6160,7 +6160,7 @@ assets:
     - name: files\N_HB020_HUEY_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB020_LOUIE_RTN.bar
+  name: obj/N_HB020_LOUIE_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6168,7 +6168,7 @@ assets:
     - name: files\N_HB020_LOUIE_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB030_RTN.bar
+  name: obj/N_HB030_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6176,7 +6176,7 @@ assets:
     - name: files\N_HB030_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB040_BTL.bar
+  name: obj/N_HB040_BTL.mdlx
   source:
   - method: copy
     name: A820
@@ -6184,7 +6184,7 @@ assets:
     - name: files\N_HB040_BTL\A820.og.mset
     type: Motionset
 - method: binarc
-  name: obj/N_HB040_BTL.bar
+  name: obj/N_HB040_BTL.mdlx
   source:
   - method: copy
     name: n_hb
@@ -6192,7 +6192,7 @@ assets:
     - name: files\N_HB040_BTL\n_hb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB530_BOSS.bar
+  name: obj/N_HB530_BOSS.mdlx
   source:
   - method: copy
     name: n_hb
@@ -6200,7 +6200,7 @@ assets:
     - name: files\N_HB530_BOSS\n_hb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB530_BTL.bar
+  name: obj/N_HB530_BTL.mdlx
   source:
   - method: copy
     name: AL80
@@ -6208,7 +6208,7 @@ assets:
     - name: files\N_HB530_BTL\AL80.og.mset
     type: Motionset
 - method: binarc
-  name: obj/N_HB530_BTL.bar
+  name: obj/N_HB530_BTL.mdlx
   source:
   - method: copy
     name: AL81
@@ -6216,7 +6216,7 @@ assets:
     - name: files\N_HB530_BTL\AL81.og.mset
     type: Motionset
 - method: binarc
-  name: obj/N_HB530_BTL.bar
+  name: obj/N_HB530_BTL.mdlx
   source:
   - method: copy
     name: AL82
@@ -6224,7 +6224,7 @@ assets:
     - name: files\N_HB530_BTL\AL82.og.mset
     type: Motionset
 - method: binarc
-  name: obj/N_HB530_BTL.bar
+  name: obj/N_HB530_BTL.mdlx
   source:
   - method: copy
     name: n_hb
@@ -6232,7 +6232,7 @@ assets:
     - name: files\N_HB530_BTL\n_hb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB530_BTL2.bar
+  name: obj/N_HB530_BTL2.mdlx
   source:
   - method: copy
     name: n_hb
@@ -6240,7 +6240,7 @@ assets:
     - name: files\N_HB530_BTL2\n_hb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB530_RTN.bar
+  name: obj/N_HB530_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6248,7 +6248,7 @@ assets:
     - name: files\N_HB530_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB540_RTN.bar
+  name: obj/N_HB540_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6256,7 +6256,7 @@ assets:
     - name: files\N_HB540_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB540_SIT_RTN.bar
+  name: obj/N_HB540_SIT_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6264,7 +6264,7 @@ assets:
     - name: files\N_HB540_SIT_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB550_RTN.bar
+  name: obj/N_HB550_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6272,7 +6272,7 @@ assets:
     - name: files\N_HB550_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB550_STAND_RTN.bar
+  name: obj/N_HB550_STAND_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6280,7 +6280,7 @@ assets:
     - name: files\N_HB550_STAND_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB560_RTN.bar
+  name: obj/N_HB560_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6288,7 +6288,7 @@ assets:
     - name: files\N_HB560_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB570_BOSS.bar
+  name: obj/N_HB570_BOSS.mdlx
   source:
   - method: copy
     name: n_hb
@@ -6296,7 +6296,7 @@ assets:
     - name: files\N_HB570_BOSS\n_hb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB570_BTL.bar
+  name: obj/N_HB570_BTL.mdlx
   source:
   - method: copy
     name: n_hb
@@ -6304,7 +6304,7 @@ assets:
     - name: files\N_HB570_BTL\n_hb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB570_BTL2.bar
+  name: obj/N_HB570_BTL2.mdlx
   source:
   - method: copy
     name: n_hb
@@ -6312,7 +6312,7 @@ assets:
     - name: files\N_HB570_BTL2\n_hb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB570_RTN.bar
+  name: obj/N_HB570_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6320,7 +6320,7 @@ assets:
     - name: files\N_HB570_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB580_BOSS.bar
+  name: obj/N_HB580_BOSS.mdlx
   source:
   - method: copy
     name: n_hb
@@ -6328,7 +6328,7 @@ assets:
     - name: files\N_HB580_BOSS\n_hb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB580_BTL.bar
+  name: obj/N_HB580_BTL.mdlx
   source:
   - method: copy
     name: n_hb
@@ -6336,7 +6336,7 @@ assets:
     - name: files\N_HB580_BTL\n_hb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB580_BTL2.bar
+  name: obj/N_HB580_BTL2.mdlx
   source:
   - method: copy
     name: n_hb
@@ -6344,7 +6344,7 @@ assets:
     - name: files\N_HB580_BTL2\n_hb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB580_RTN.bar
+  name: obj/N_HB580_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6352,7 +6352,7 @@ assets:
     - name: files\N_HB580_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB590_BTL.bar
+  name: obj/N_HB590_BTL.mdlx
   source:
   - method: copy
     name: n_hb
@@ -6360,7 +6360,7 @@ assets:
     - name: files\N_HB590_BTL\n_hb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB590_RTN.bar
+  name: obj/N_HB590_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6368,7 +6368,7 @@ assets:
     - name: files\N_HB590_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HB630.bar
+  name: obj/N_HB630.mdlx
   source:
   - method: copy
     name: n_hb
@@ -6376,7 +6376,7 @@ assets:
     - name: files\N_HB630\n_hb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HE010_RTN.bar
+  name: obj/N_HE010_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6384,7 +6384,7 @@ assets:
     - name: files\N_HE010_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HE010_SIT_RTN.bar
+  name: obj/N_HE010_SIT_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6392,7 +6392,7 @@ assets:
     - name: files\N_HE010_SIT_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HE020_MENU_RTN.bar
+  name: obj/N_HE020_MENU_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6400,7 +6400,7 @@ assets:
     - name: files\N_HE020_MENU_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HE020_RTN.bar
+  name: obj/N_HE020_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6408,7 +6408,7 @@ assets:
     - name: files\N_HE020_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HE030_RTN.bar
+  name: obj/N_HE030_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6416,7 +6416,7 @@ assets:
     - name: files\N_HE030_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HE040_RTN.bar
+  name: obj/N_HE040_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6424,7 +6424,7 @@ assets:
     - name: files\N_HE040_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HE050_RTN.bar
+  name: obj/N_HE050_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6432,7 +6432,7 @@ assets:
     - name: files\N_HE050_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_HE060_RTN.bar
+  name: obj/N_HE060_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6440,7 +6440,7 @@ assets:
     - name: files\N_HE060_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_LK010_RTN.bar
+  name: obj/N_LK010_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6448,7 +6448,7 @@ assets:
     - name: files\N_LK010_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_LK020_RTN.bar
+  name: obj/N_LK020_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6456,7 +6456,7 @@ assets:
     - name: files\N_LK020_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_LK030_RTN.bar
+  name: obj/N_LK030_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6464,7 +6464,7 @@ assets:
     - name: files\N_LK030_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_LK050_RTN.bar
+  name: obj/N_LK050_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6472,7 +6472,7 @@ assets:
     - name: files\N_LK050_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_LK120_RTN.bar
+  name: obj/N_LK120_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6480,7 +6480,7 @@ assets:
     - name: files\N_LK120_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_LM010_RTN.bar
+  name: obj/N_LM010_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6488,7 +6488,7 @@ assets:
     - name: files\N_LM010_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_LM020_RTN.bar
+  name: obj/N_LM020_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6496,7 +6496,7 @@ assets:
     - name: files\N_LM020_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_LM030_RTN.bar
+  name: obj/N_LM030_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6504,7 +6504,7 @@ assets:
     - name: files\N_LM030_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_LM040_RTN.bar
+  name: obj/N_LM040_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6512,7 +6512,7 @@ assets:
     - name: files\N_LM040_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_LM050_RTN.bar
+  name: obj/N_LM050_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6520,7 +6520,7 @@ assets:
     - name: files\N_LM050_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_LM060_RTN.bar
+  name: obj/N_LM060_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6528,7 +6528,7 @@ assets:
     - name: files\N_LM060_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_MU010_RTN.bar
+  name: obj/N_MU010_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6536,7 +6536,7 @@ assets:
     - name: files\N_MU010_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_MU020_RTN.bar
+  name: obj/N_MU020_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6544,7 +6544,7 @@ assets:
     - name: files\N_MU020_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_MU030_RTN.bar
+  name: obj/N_MU030_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6552,7 +6552,7 @@ assets:
     - name: files\N_MU030_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_MU040_RTN.bar
+  name: obj/N_MU040_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6560,7 +6560,7 @@ assets:
     - name: files\N_MU040_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_MU050_RTN.bar
+  name: obj/N_MU050_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6568,7 +6568,7 @@ assets:
     - name: files\N_MU050_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_MU060_RTN.bar
+  name: obj/N_MU060_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6576,7 +6576,7 @@ assets:
     - name: files\N_MU060_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_MU070_RTN.bar
+  name: obj/N_MU070_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6584,7 +6584,7 @@ assets:
     - name: files\N_MU070_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_NM010_RTN.bar
+  name: obj/N_NM010_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6592,7 +6592,7 @@ assets:
     - name: files\N_NM010_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_NM010_SIT_RTN.bar
+  name: obj/N_NM010_SIT_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6600,7 +6600,7 @@ assets:
     - name: files\N_NM010_SIT_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_NM020_RTN.bar
+  name: obj/N_NM020_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6608,7 +6608,7 @@ assets:
     - name: files\N_NM020_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_NM030_RTN.bar
+  name: obj/N_NM030_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6616,7 +6616,7 @@ assets:
     - name: files\N_NM030_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_NM040_RTN.bar
+  name: obj/N_NM040_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6624,7 +6624,7 @@ assets:
     - name: files\N_NM040_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_NM050_BTL.bar
+  name: obj/N_NM050_BTL.mdlx
   source:
   - method: copy
     name: n_nm
@@ -6632,7 +6632,7 @@ assets:
     - name: files\N_NM050_BTL\n_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_NM050_RTN.bar
+  name: obj/N_NM050_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6640,7 +6640,7 @@ assets:
     - name: files\N_NM050_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_NM060_BTL.bar
+  name: obj/N_NM060_BTL.mdlx
   source:
   - method: copy
     name: n_nm
@@ -6648,7 +6648,7 @@ assets:
     - name: files\N_NM060_BTL\n_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_NM060_RTN.bar
+  name: obj/N_NM060_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6656,7 +6656,7 @@ assets:
     - name: files\N_NM060_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_NM070_BTL.bar
+  name: obj/N_NM070_BTL.mdlx
   source:
   - method: copy
     name: n_nm
@@ -6664,7 +6664,7 @@ assets:
     - name: files\N_NM070_BTL\n_nm.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_NM070_RTN.bar
+  name: obj/N_NM070_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6672,7 +6672,7 @@ assets:
     - name: files\N_NM070_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_NM090_RTN.bar
+  name: obj/N_NM090_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6680,7 +6680,7 @@ assets:
     - name: files\N_NM090_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_NM100_RTN.bar
+  name: obj/N_NM100_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6688,7 +6688,7 @@ assets:
     - name: files\N_NM100_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_NM110_RTN.bar
+  name: obj/N_NM110_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6696,7 +6696,7 @@ assets:
     - name: files\N_NM110_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_PO010_BTL.bar
+  name: obj/N_PO010_BTL.mdlx
   source:
   - method: copy
     name: n_po
@@ -6704,7 +6704,7 @@ assets:
     - name: files\N_PO010_BTL\n_po.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_PO010_RTN.bar
+  name: obj/N_PO010_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6712,7 +6712,7 @@ assets:
     - name: files\N_PO010_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_PO010_SIT_RTN.bar
+  name: obj/N_PO010_SIT_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6720,7 +6720,7 @@ assets:
     - name: files\N_PO010_SIT_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_PO020_BTL.bar
+  name: obj/N_PO020_BTL.mdlx
   source:
   - method: copy
     name: n_po
@@ -6728,7 +6728,7 @@ assets:
     - name: files\N_PO020_BTL\n_po.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_PO020_RTN.bar
+  name: obj/N_PO020_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6736,7 +6736,7 @@ assets:
     - name: files\N_PO020_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_PO030_AIR_RTN.bar
+  name: obj/N_PO030_AIR_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6744,7 +6744,7 @@ assets:
     - name: files\N_PO030_AIR_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_PO030_BTL.bar
+  name: obj/N_PO030_BTL.mdlx
   source:
   - method: copy
     name: n_po
@@ -6752,7 +6752,7 @@ assets:
     - name: files\N_PO030_BTL\n_po.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_PO030_RTN.bar
+  name: obj/N_PO030_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6760,7 +6760,7 @@ assets:
     - name: files\N_PO030_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_PO040_BTL.bar
+  name: obj/N_PO040_BTL.mdlx
   source:
   - method: copy
     name: n_po
@@ -6768,7 +6768,7 @@ assets:
     - name: files\N_PO040_BTL\n_po.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_PO040_RTN.bar
+  name: obj/N_PO040_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6776,7 +6776,7 @@ assets:
     - name: files\N_PO040_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_PO050_RTN.bar
+  name: obj/N_PO050_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6784,7 +6784,7 @@ assets:
     - name: files\N_PO050_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_PO060_RTN.bar
+  name: obj/N_PO060_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6792,7 +6792,7 @@ assets:
     - name: files\N_PO060_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_PO070_BTL.bar
+  name: obj/N_PO070_BTL.mdlx
   source:
   - method: copy
     name: n_po
@@ -6800,7 +6800,7 @@ assets:
     - name: files\N_PO070_BTL\n_po.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_PO070_RTN.bar
+  name: obj/N_PO070_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6808,7 +6808,7 @@ assets:
     - name: files\N_PO070_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_PO080_RTN.bar
+  name: obj/N_PO080_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6816,7 +6816,7 @@ assets:
     - name: files\N_PO080_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_PO090_RTN.bar
+  name: obj/N_PO090_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6824,7 +6824,7 @@ assets:
     - name: files\N_PO090_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_PO100_RTN.bar
+  name: obj/N_PO100_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6832,7 +6832,7 @@ assets:
     - name: files\N_PO100_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_TR010_BTL.bar
+  name: obj/N_TR010_BTL.mdlx
   source:
   - method: copy
     name: AL20
@@ -6840,7 +6840,7 @@ assets:
     - name: files\N_TR010_BTL\AL20.og.mset
     type: Motionset
 - method: binarc
-  name: obj/N_TR010_BTL.bar
+  name: obj/N_TR010_BTL.mdlx
   source:
   - method: copy
     name: AL21
@@ -6848,7 +6848,7 @@ assets:
     - name: files\N_TR010_BTL\AL21.og.mset
     type: Motionset
 - method: binarc
-  name: obj/N_TT010_RTN.bar
+  name: obj/N_TT010_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6856,7 +6856,7 @@ assets:
     - name: files\N_TT010_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_TT010_SIT_RTN.bar
+  name: obj/N_TT010_SIT_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6864,7 +6864,7 @@ assets:
     - name: files\N_TT010_SIT_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_TT020_RTN.bar
+  name: obj/N_TT020_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6872,7 +6872,7 @@ assets:
     - name: files\N_TT020_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_TT030_RTN.bar
+  name: obj/N_TT030_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6880,7 +6880,7 @@ assets:
     - name: files\N_TT030_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_TT040_RTN.bar
+  name: obj/N_TT040_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6888,7 +6888,7 @@ assets:
     - name: files\N_TT040_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_WI010_RTN.bar
+  name: obj/N_WI010_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6896,7 +6896,7 @@ assets:
     - name: files\N_WI010_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_WI020_RTN.bar
+  name: obj/N_WI020_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6904,7 +6904,7 @@ assets:
     - name: files\N_WI020_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_WI030_RTN.bar
+  name: obj/N_WI030_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6912,7 +6912,7 @@ assets:
     - name: files\N_WI030_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/N_WI040_RTN.bar
+  name: obj/N_WI040_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6920,7 +6920,7 @@ assets:
     - name: files\N_WI040_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_AL000_RTN.bar
+  name: obj/P_AL000_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6928,7 +6928,7 @@ assets:
     - name: files\P_AL000_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_BB000_BTL.bar
+  name: obj/P_BB000_BTL.mdlx
   source:
   - method: copy
     name: p_bb
@@ -6936,7 +6936,7 @@ assets:
     - name: files\P_BB000_BTL\p_bb.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_BB000_RTN.bar
+  name: obj/P_BB000_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6944,7 +6944,7 @@ assets:
     - name: files\P_BB000_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_CA000_KAJI_BP_RTN.bar
+  name: obj/P_CA000_KAJI_BP_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6952,7 +6952,7 @@ assets:
     - name: files\P_CA000_KAJI_BP_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_CA000_KAJI_IS_RTN.bar
+  name: obj/P_CA000_KAJI_IS_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6960,7 +6960,7 @@ assets:
     - name: files\P_CA000_KAJI_IS_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_CA000_KAJI_RTN.bar
+  name: obj/P_CA000_KAJI_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6968,7 +6968,7 @@ assets:
     - name: files\P_CA000_KAJI_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_CA000_KAJI_SKL_RTN.bar
+  name: obj/P_CA000_KAJI_SKL_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6976,7 +6976,7 @@ assets:
     - name: files\P_CA000_KAJI_SKL_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_CA000_RTN.bar
+  name: obj/P_CA000_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6984,7 +6984,7 @@ assets:
     - name: files\P_CA000_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_CA000_SKL_RTN.bar
+  name: obj/P_CA000_SKL_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -6992,7 +6992,7 @@ assets:
     - name: files\P_CA000_SKL_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EH000.bar
+  name: obj/P_EH000.mdlx
   source:
   - method: copy
     name: p_eh
@@ -7000,7 +7000,7 @@ assets:
     - name: files\P_EH000\p_eh.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EH000_LAST.bar
+  name: obj/P_EH000_LAST.mdlx
   source:
   - method: copy
     name: p_eh
@@ -7008,7 +7008,7 @@ assets:
     - name: files\P_EH000_LAST\p_eh.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EH000_LAST.bar
+  name: obj/P_EH000_LAST.mdlx
   source:
   - method: copy
     name: P_EH
@@ -7016,7 +7016,7 @@ assets:
     - name: files\P_EH000_LAST\P_EH.og.mset
     type: Motionset
 - method: binarc
-  name: obj/P_EH000_RTN.bar
+  name: obj/P_EH000_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7024,7 +7024,7 @@ assets:
     - name: files\P_EH000_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EH000_SIDECAR.bar
+  name: obj/P_EH000_SIDECAR.mdlx
   source:
   - method: copy
     name: p_eh
@@ -7032,7 +7032,7 @@ assets:
     - name: files\P_EH000_SIDECAR\p_eh.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX020.bar
+  name: obj/P_EX020.mdlx
   source:
   - method: copy
     name: p_ex
@@ -7040,7 +7040,7 @@ assets:
     - name: files\P_EX020\p_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX020_NM.bar
+  name: obj/P_EX020_NM.mdlx
   source:
   - method: copy
     name: p_ex
@@ -7048,7 +7048,7 @@ assets:
     - name: files\P_EX020_NM\p_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX020_NM_RTN.bar
+  name: obj/P_EX020_NM_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7056,7 +7056,7 @@ assets:
     - name: files\P_EX020_NM_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX020_NOBG_RTN.bar
+  name: obj/P_EX020_NOBG_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7064,7 +7064,7 @@ assets:
     - name: files\P_EX020_NOBG_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX020_RTN.bar
+  name: obj/P_EX020_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7072,7 +7072,7 @@ assets:
     - name: files\P_EX020_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX020_TR.bar
+  name: obj/P_EX020_TR.mdlx
   source:
   - method: copy
     name: p_ex
@@ -7080,7 +7080,7 @@ assets:
     - name: files\P_EX020_TR\p_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX020_TR_RTN.bar
+  name: obj/P_EX020_TR_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7088,7 +7088,7 @@ assets:
     - name: files\P_EX020_TR_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX030.bar
+  name: obj/P_EX030.mdlx
   source:
   - method: copy
     name: p_ex
@@ -7096,7 +7096,7 @@ assets:
     - name: files\P_EX030\p_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX030_NM.bar
+  name: obj/P_EX030_NM.mdlx
   source:
   - method: copy
     name: p_ex
@@ -7104,7 +7104,7 @@ assets:
     - name: files\P_EX030_NM\p_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX030_NM_RTN.bar
+  name: obj/P_EX030_NM_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7112,7 +7112,7 @@ assets:
     - name: files\P_EX030_NM_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX030_NOBG_RTN.bar
+  name: obj/P_EX030_NOBG_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7120,7 +7120,7 @@ assets:
     - name: files\P_EX030_NOBG_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX030_RTN.bar
+  name: obj/P_EX030_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7128,7 +7128,7 @@ assets:
     - name: files\P_EX030_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX030_TR.bar
+  name: obj/P_EX030_TR.mdlx
   source:
   - method: copy
     name: p_ex
@@ -7136,7 +7136,7 @@ assets:
     - name: files\P_EX030_TR\p_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX030_TR_RTN.bar
+  name: obj/P_EX030_TR_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7144,7 +7144,7 @@ assets:
     - name: files\P_EX030_TR_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX100_MAGF.bar
+  name: obj/P_EX100_MAGF.mdlx
   source:
   - method: copy
     name: wisd
@@ -7152,7 +7152,7 @@ assets:
     - name: files\P_EX100_MAGF\wisd.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX100_NM_MAGF.bar
+  name: obj/P_EX100_NM_MAGF.mdlx
   source:
   - method: copy
     name: wisd
@@ -7160,7 +7160,7 @@ assets:
     - name: files\P_EX100_NM_MAGF\wisd.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX100_TR_MAGF.bar
+  name: obj/P_EX100_TR_MAGF.mdlx
   source:
   - method: copy
     name: wisd
@@ -7168,7 +7168,7 @@ assets:
     - name: files\P_EX100_TR_MAGF\wisd.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX100_WI_MAGF.bar
+  name: obj/P_EX100_WI_MAGF.mdlx
   source:
   - method: copy
     name: wisd
@@ -7176,7 +7176,7 @@ assets:
     - name: files\P_EX100_WI_MAGF\wisd.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX130.bar
+  name: obj/P_EX130.mdlx
   source:
   - method: copy
     name: p_ex
@@ -7184,7 +7184,7 @@ assets:
     - name: files\P_EX130\p_ex.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX210_RTN.bar
+  name: obj/P_EX210_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7192,7 +7192,7 @@ assets:
     - name: files\P_EX210_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX220_RTN.bar
+  name: obj/P_EX220_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7200,7 +7200,7 @@ assets:
     - name: files\P_EX220_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_EX330.bar
+  name: obj/P_EX330.mdlx
   source:
   - method: copy
     name: A803
@@ -7208,7 +7208,7 @@ assets:
     - name: files\P_EX330\A803.og.mset
     type: Motionset
 - method: binarc
-  name: obj/P_EX330.bar
+  name: obj/P_EX330.mdlx
   source:
   - method: copy
     name: A804
@@ -7216,7 +7216,7 @@ assets:
     - name: files\P_EX330\A804.og.mset
     type: Motionset
 - method: binarc
-  name: obj/P_HE000_RTN.bar
+  name: obj/P_HE000_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7224,7 +7224,7 @@ assets:
     - name: files\P_HE000_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_LK000_RTN.bar
+  name: obj/P_LK000_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7232,7 +7232,7 @@ assets:
     - name: files\P_LK000_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_LK020.bar
+  name: obj/P_LK020.mdlx
   source:
   - method: copy
     name: p_lk
@@ -7240,7 +7240,7 @@ assets:
     - name: files\P_LK020\p_lk.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_LK030_RTN.bar
+  name: obj/P_LK030_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7248,7 +7248,7 @@ assets:
     - name: files\P_LK030_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_MU000_RTN.bar
+  name: obj/P_MU000_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7256,7 +7256,7 @@ assets:
     - name: files\P_MU000_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_MU010_RTN.bar
+  name: obj/P_MU010_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7264,7 +7264,7 @@ assets:
     - name: files\P_MU010_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_TR000_RTN.bar
+  name: obj/P_TR000_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7272,7 +7272,7 @@ assets:
     - name: files\P_TR000_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_WI020_RTN.bar
+  name: obj/P_WI020_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7280,7 +7280,7 @@ assets:
     - name: files\P_WI020_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/P_WI030_RTN.bar
+  name: obj/P_WI030_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7288,7 +7288,7 @@ assets:
     - name: files\P_WI030_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/W_EX010_U0_RTN.bar
+  name: obj/W_EX010_U0_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7296,7 +7296,7 @@ assets:
     - name: files\W_EX010_U0_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/W_EX010_V0_RTN.bar
+  name: obj/W_EX010_V0_RTN.mdlx
   source:
   - method: copy
     name: rtn_
@@ -7304,7 +7304,7 @@ assets:
     - name: files\W_EX010_V0_RTN\rtn_.og.bdx
     type: Bdx
 - method: binarc
-  name: obj/W_EX010_W0_RTN.bar
+  name: obj/W_EX010_W0_RTN.mdlx
   source:
   - method: copy
     name: rtn_
